@@ -1,0 +1,13 @@
+pdf2image
+ultralytics
+supervision
+langchain
+unstructured[all-docs]
+pydantic
+lxml
+langchainhub
+git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
+accelerate
+torch
+torchvision
+markdownify
