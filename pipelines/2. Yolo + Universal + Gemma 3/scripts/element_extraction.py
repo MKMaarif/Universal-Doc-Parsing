@@ -58,9 +58,10 @@ def extract_elements_to_text(elements, figures):
             # get the closest figure
             if len(name_dist) > 0:
                 min_dist = min(name_dist)
-                fig = figures[name_dist.index(min_dist)]
-                string.append(fig["data"])
-                figures.remove(fig)
+                if min_dist < 4:
+                    fig = figures[name_dist.index(min_dist)]
+                    string.append(fig["data"])
+                    figures.remove(fig)
         else:
             string.append(markdownify.markdownify(str(element), heading_style="ATX"))
 
