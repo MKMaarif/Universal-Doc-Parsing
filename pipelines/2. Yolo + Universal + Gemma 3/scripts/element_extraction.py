@@ -111,37 +111,40 @@ Extracted Text:
 {extracted_text}
 """
 
-def format_all_data(page):
+def format_all_data(pages):
+    formated_text = []
 
-    extracted_text = page['text']
+    for page in pages:
+        
+        extracted_text = page['text']
 
-    prompt_template = ChatPromptTemplate.from_template(FORMAT_PROMPT_TEMPLATE)
-    prompt = prompt_template.format(extracted_text=extracted_text)
+        prompt_template = ChatPromptTemplate.from_template(FORMAT_PROMPT_TEMPLATE)
+        prompt = prompt_template.format(extracted_text=extracted_text)
 
-    messages = [
-        [
-            {
-                "role": "system",
-                "content": [{"type": "text", "text": SYSTEM_FORMAT_PROMPT},]
-            },
-            {
-                "role": "user",
-                "content": [{"type": "text", "text": prompt},]
-            },
-        ],
-    ]
+        messages = [
+            [
+                {
+                    "role": "system",
+                    "content": [{"type": "text", "text": SYSTEM_FORMAT_PROMPT},]
+                },
+                {
+                    "role": "user",
+                    "content": [{"type": "text", "text": prompt},]
+                },
+            ],
+        ]
 
-    inputs = tokenizer.apply_chat_template(
-        messages, add_generation_prompt=True, tokenize=True,
-        return_dict=True, return_tensors="pt"
-    ).to(model.device)
+        inputs = tokenizer.apply_chat_template(
+            messages, add_generation_prompt=True, tokenize=True,
+            return_dict=True, return_tensors="pt"
+        ).to(model.device)
 
-    input_len = inputs["input_ids"].shape[-1]
+        input_len = inputs["input_ids"].shape[-1]
 
-    generation = model.generate(**inputs, max_new_tokens=4096)
-    generation = generation[0][input_len:]
+        generation = model.generate(**inputs, max_new_tokens=4096)
+        generation = generation[0][input_len:]
 
-    decoded = tokenizer.decode(generation, skip_special_tokens=True)
-    output = clean_md(decoded)
+        decoded = tokenizer.decode(generation, skip_special_tokens=True)
+        formated_text.append(clean_md(decoded))
 
-    return output
+    return formated_text

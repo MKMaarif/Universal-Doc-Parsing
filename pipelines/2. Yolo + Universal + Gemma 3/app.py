@@ -17,10 +17,7 @@ pages = ie.extract_images(pages)
 element_pages = ee.extract_elements(pdf_path, pages)
 
 # format the extracted elements
-formated_text = []
-for i, page in enumerate(element_pages):
-    text = ee.extract_elements_to_text(page)
-    formated_text.append(text)
+formated_text = ee.format_all_data(element_pages)
 
 # Save the extracted text to a md file
 md_text = ""
