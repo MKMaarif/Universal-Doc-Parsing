@@ -2,21 +2,19 @@ import cv2
 import numpy as np
 from ultralytics import YOLO
 import supervision as sv
-import torch
-from transformers import pipeline, AutoProcessor
 import os
-from dotenv import load_dotenv
-load_dotenv()
+import model_config as mc
+
 
 # Extract figures from the pages
 def extract_figures(pages):
     # Load YOLOv11 model
-    model = YOLO('model/yolo11_best.pt')
+    yolo_model = YOLO('model/yolo11_best.pt')
 
     # Extract figures from the pages
     for j, page in enumerate(pages):
         image = cv2.imread(page['image'])
-        results = model(image, conf=0.35, iou=0.7)[0]
+        results = yolo_model(image, conf=0.35, iou=0.7)[0]
         detections = sv.Detections.from_ultralytics(results)
 
         # save figure class_name
@@ -42,13 +40,7 @@ def extract_figures(pages):
 
 # Figure to Table VLM
 # Load model
-model_id = "google/gemma-3-4b-it" # "google/gemma-3-12b-it", "google/gemma-3-27b-it"
-pipe = pipeline(
-    "image-text-to-text",
-    model=model_id,
-    device="cuda",
-    torch_dtype=torch.bfloat16
-)
+pipe = mc.load_vlm()
 
 SYSTEM_PROMPT = """You are a helpful assistant who helps users convert images into understandable formats. 
 First, provide the name of the image that you will receive. Then, determine if the image is a graph/chart or simply another type of image. 
