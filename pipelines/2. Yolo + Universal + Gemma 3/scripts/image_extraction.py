@@ -3,13 +3,13 @@ import numpy as np
 from ultralytics import YOLO
 import supervision as sv
 import os
-import model_config as mc
-
+import scripts.model_config as mc
 
 # Extract figures from the pages
 def extract_figures(pages):
     # Load YOLOv11 model
     yolo_model = YOLO('model/yolo11_best.pt')
+    yolo_model = yolo_model.to('cpu')
 
     # Extract figures from the pages
     for j, page in enumerate(pages):
@@ -23,7 +23,7 @@ def extract_figures(pages):
             if class_name == 'figure':
                 x1, y1, x2, y2 = map(int, detections.xyxy[i])
                 section = image[y1:y2, x1:x2]
-                output_filename = f"../img/figures/page_{j}_figure_{i}.png"
+                output_filename = f"./img/figures/page_{j}_figure_{i}.png"
                 cv2.imwrite(output_filename, section)
                 # save metadata
                 metadata = {
@@ -40,14 +40,12 @@ def extract_figures(pages):
 
 # Figure to Table VLM
 # Load model
-pipe = mc.load_vlm()
-
-SYSTEM_PROMPT = """You are a helpful assistant who helps users convert images into understandable formats. 
+SYSTEM_FIGURE_PROMPT = """You are a helpful assistant who helps users convert images into understandable formats. 
 First, provide the name of the image that you will receive. Then, determine if the image is a graph/chart or simply another type of image. 
 If it is a graph/chart, state the chart type and convert it to structured table data in Markdown format with a short explanation or context analysis. 
 If it is not a graph/chart, briefly describe the image's content in natural language using short sentences."""
 
-PROMPT_TEMPLATE = """Convert the provided figure image into an understandable format.
+PROMPT_FIGURE_TEMPLATE = """Convert the provided figure image into an understandable format.
 Output format:
 1.	Chart/graph:
 - Figure Name: …
@@ -62,20 +60,20 @@ Output format:
 - Short Description: …
 """
 
-def fig_to_table(image_path):
+def fig_to_table(image_path, pipe):
     image = image_path
     messages = [
         {
             "role": "system",
             "content": [
-                {"type": "text", "text": SYSTEM_PROMPT}
+                {"type": "text", "text": SYSTEM_FIGURE_PROMPT}
             ]
         },
         {
             "role": "user",
             "content": [
                 {"type": "image", "image": image},
-                {"type": "text", "text": PROMPT_TEMPLATE}
+                {"type": "text", "text": PROMPT_FIGURE_TEMPLATE}
             ]
         }
     ]
@@ -139,17 +137,20 @@ def post_process_figures(result):
 
 # Extract metadata from figures
 def extract_images(pages):
+    pipe = mc.load_vlm()
+
     # Extract figures from the pages
     pages = extract_figures(pages)
 
     # Extract metadata from figures
     for page in pages:
         for figure in page['figures']:
-            fig2table = fig_to_table(figure['file_path'])
+            fig2table = fig_to_table(figure['file_path'], pipe)
             name, type, tab, desc = post_process_figures(fig2table)
             figure['name'] = name
             figure['type'] = type
             figure['data'] = tab
             figure['description'] = desc
+    # clean up 
 
     return pages

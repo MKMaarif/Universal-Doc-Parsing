@@ -1,9 +1,8 @@
 from unstructured.partition.pdf import partition_pdf
 import markdownify
 import re
-import model_config as mc
 from langchain.prompts import ChatPromptTemplate
-
+import scripts.model_config as mc
 
 # Function to extract elements from PDF
 def element_extractor(pdf_path):
@@ -98,8 +97,6 @@ def clean_md(result_text):
     return md_text
 
 # load llm model
-model, tokenizer = mc.load_format_llm()
-
 # Prompt template
 SYSTEM_FORMAT_PROMPT = """You are a helpful assistant who helps users format the extracted data from a document page into Markdown format.
 You are not allowed to change or summarize the given text; only correct any broken words and delete any unsuccessful OCR results, if any"""
@@ -113,6 +110,8 @@ Extracted Text:
 """
 
 def format_all_data(pages):
+    model, tokenizer = mc.load_format_llm()
+
     formated_text = []
 
     for page in pages:

@@ -1,11 +1,6 @@
 import os
 from pdf2image import convert_from_path
 
-# Folder structure setup
-DIRECTORIES = ["img/pages", "img/figures"]
-for dir in DIRECTORIES:
-    os.makedirs(os.path.join(dir), exist_ok=True)
-
 # handle image size
 def resize_img(image, width=1440):
     # change the image to RGB mode
@@ -29,7 +24,7 @@ def split_pdf(pdf_path, pages):
     for i, page in enumerate(page_images):
         # Save Image
         page = resize_img(image=page, width=1440)
-        path = f"../img/pages/page_{i}.png"
+        path = f"./img/pages/page_{i}.png"
         page.save(path, "PNG")
 
         # Save Page Metadata

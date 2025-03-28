@@ -1,23 +1,39 @@
 import os
 import json
+print("Pipeline 2 started!")
 
+import scripts.model_config as mc
+print("Model config imported")
 import scripts.file_handler as fh
+print("File handler imported")
 import scripts.image_extraction as ie
+print("Image extraction imported")
 import scripts.element_extraction as ee
+print("Element extraction imported")
+
+
+# Folder structure setup
+DIRECTORIES = ["img/pages", "img/figures", "result"]
+for dir in DIRECTORIES:
+    os.makedirs(os.path.join(dir), exist_ok=True)
 
 # Read the PDF file
 pdf_path = "dummy_scanned.pdf"
 pages = []
 pages = fh.split_pdf(pdf_path, pages)
+print("PDF split into images")
 
 # Extract image metadata
 pages = ie.extract_images(pages)
+print("Images extracted")
 
 # Extract elements from PDF
 element_pages = ee.extract_elements(pdf_path, pages)
+print("Elements extracted")
 
 # format the extracted elements
 formated_text = ee.format_all_data(element_pages)
+print("Data formatted")
 
 # Save the extracted text to a md file
 md_text = ""
@@ -25,8 +41,9 @@ for text in formated_text:
     md_text += text
     md_text += "\n\n---\n\n"
 
-with open("pipeline_2_res.md", "w") as f:
+with open("result/pipeline_2_res.md", "w") as f:
     f.write(md_text)
+print("Markdown file created")
 
 # Save the extracted text to a json file
 pipeline_2 ={
@@ -57,5 +74,8 @@ for i, page in enumerate(pages):
         })
 
 # save the pipeline output to a json file
-with open("pipeline_2_res.jsonl", "w") as f:
+with open("result/pipeline_2_res.jsonl", "w") as f:
     json.dump(pipeline_2, f, indent=4)
+print("JSON file created")
+
+print("Pipeline 2 completed!")
