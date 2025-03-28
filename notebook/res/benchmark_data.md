@@ -245,17 +245,16 @@ Thus this statement is made truthtully.
 Atas nama dan mewakili Direksi/For and on behalf of the Board of Directors
 
 JAKARTA
+
 29 April 2024
 
 FXL Kesuma
 
 Presiden Direktur/President Director
 
-
 Vilihati Surya
 
 Direktur/Director
-
 
 Moving as one
 
