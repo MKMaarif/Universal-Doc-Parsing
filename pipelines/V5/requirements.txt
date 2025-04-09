@@ -1,0 +1,15 @@
+pdf2image
+ultralytics
+supervision
+markdownify
+langchain
+unstructured[all-docs]
+pydantic
+lxml
+langchainhub
+transformers @ git+https://github.com/huggingface/transformers@0ebd6651acd32c982fee265b23243b89bdb89577
+accelerate
+qwen-vl-utils[decord]==0.0.8
+torch
+torchvision
+python-dotenv
