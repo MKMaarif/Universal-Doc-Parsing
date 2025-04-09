@@ -1,4 +1,5 @@
-PFU Business report
+PFU Business report 
+
 No.068
 
 # New customer's development and increasing the sale of product
@@ -8,13 +9,17 @@ My country economy at this season keeps escaping from Odoba of business though h
 ## [The main product and service at this season]
 
 ### From the product headquarters
+
 In the image business, the new model turning on of the A3 high-speed, two sided color scanner that achieved a high-speed reading aimed at wroom was established in United States, Europe, and Asia/Oceania.
 
 ### Image business
+
 1) Scanner class
+
 A3 high-speed, two sided color scanner "fi-5900C" that 100 high-n function to enable industry-leading was installed was announced in ScanSnap gotten popular because of an office and individual use.
 
 2) DLM solution scanner
+
 The DLM solution that used received the rise of the concern to efficient management and internal management of the corporate private circumstances report in recent years and attracted attention. The function of software that the inspection of data is possible by the sense that turns over the file is strengthened, and easiness to use has been improved.
 
 | Satisfaction rating to new product |     |
@@ -24,23 +29,29 @@ The DLM solution that used received the rise of the concern to efficient managem
 | Usually                            | 20% |
 | Bad                                | 7%  |
 
+Satisfaction rating to new product
+
 ## [approach on business risk]
 
 ### In-house activity
+
 The attestation intended for each office in Shinbashi, Kansai, and Tokai was acquired in environment ISO in February, 2006. In addition, it participates in the minus 6% that is a national movement of the global warming prevention, and "Culbiz" is done. The scandal of the enterprise has frequently generated is received, concern is sent to the system maintenance including the observance of the law in recent years.
 
 ### Enhancement of system of management
+
 The committee that aimed at the decrease of a variety of business risks in an individual business talk was newly established. Moreover, the recognition of "Privacy mark" is received to manage customer and employee's individual information appropriately in 2001, and the activity based on the protection of individual information policy is continued. It is Asia/Oceania in global. In addition, our technology, commodity power, and correspondence power were evaluating acquired.
 
 | Year | Satisfaction rating to new product |
-|------|-----------------------------------|
-| 1998 | 80                                |
-| 1999 | 28                                |
-| 2000 | 65                                |
-| 2001 | 62                                |
-| 2002 | 58                                |
-| 2003 | 35                                |
-| 2004 | 98                                |
+|------|------------------------------------|
+| 1998 | 80                                 |
+| 1999 | 28                                 |
+| 2000 | 65                                 |
+| 2001 | 62                                 |
+| 2002 | 58                                 |
+| 2003 | 35                                 |
+| 2004 | 98                                 |
+
+Satisfaction rating to new product
 
 ---
 
@@ -78,14 +89,21 @@ In the current era of Industry 4.0, many new technologies offer manufacturing in
 The adoption of Industry 4.0 technologies enables new capabilities to produce and to deliver product faster with a better quality, and more cost efficient. However, this industrial revolution is leading to an increased complexity of manufacturing systems and an increasingly rapid renewal of these systems. Consequently, upskilling employees' competencies to handle and maintain the complex engineering assets (CEAs) is indispensable. In recent years, finding a skilled worker has become a difficult task. The reason is that there is a talent shortage nowadays. Indeed, in 2018, 45 % of employers said that they could not find the necessary skills among candidates [17]. Furthermore, a new issue will arise from adapting to the changing job dynamics brought about by digitalization [27]. Despite the increased interconnectedness and availability of information globally, the progress of digitalization has not been uniformed across countries or even within industries within the same country [14]. To face this challenge and meet with the adoption of Industry 4.0, employers need to find a new way to ensure their workforces are sufficiently equipped to work with CEAs. In the aviation sector, research examined that traditional training such as in-class training and paper-based manual are not reliable means for teaching job tasks and the skills for visual inspection for the future trend in aviation [11,29]. Visual inspection requires Aircraft Maintenance Technician (AMT) to identify certain characteristics of all types of faults and make decision to troubleshoot various systems from one airplane to another. Due to highly complexity and interrelated components in the
 
 * Corresponding author.
+
 E-mail address: j.a.erkoyuncu@cranfield.ac.uk (J.A. Erkoyuncu).
 
 https://doi.org/10.1016/j.cirpj.2023.11.003
+
 Received 29 March 2023; Received in revised form 4 September 2023; Accepted 2 November 2023
 Available online 6 December 2023
+
 1755-5817/� 2024 The Authors. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
 
 ---
+
+D. Ariansyah et al.
+
+CIRP Journal of Manufacturing Science and Technology 48 (2024) 19–27
 
 | Type          | Mean Task Completion Time (min) |
 |---------------|--------------------------------:|
@@ -140,9 +158,24 @@ Fig. 6. Success rate of wiring a second sensor.
 
 ---
 
-D. Ariansyah et al.                                                                       CIRP Journal of Manufacturing Science and Technology 48 (2024) 19–27
+D. Ariansyah et al.
 
-System architecture of AR system
+CIRP Journal of Manufacturing Science and Technology 48 (2024) 19–27
+
+```mermaid
+graph TD
+    A[Image recognition] --> B[Vuforia]
+    B --> C[Image fetched in database]
+    C --> D[Unity]
+    D --> E[MRTK]
+    D --> F[Unity + vuforia Extension]
+    E --> G[App build]
+    F --> G[App build]
+    G --> H[Visual Studio]
+    H --> I[App deployment]
+    I --> J[Microsoft HoloLens 2]
+    J --> K[Final app]
+```
 
 Fig. 1. System architecture of AR system.
 
@@ -163,7 +196,7 @@ The enhanced AR-based training system was similar to the traditional one regardi
 ### 3.3.2. Experimental procedure
 To examine how different methods of learning affect users in understanding the task and reusing the acquired knowledge to a different situation, this study assessed independent groups of users (between-subjects test) who were assigned to each learning method to learn the same task. Each participant was asked to fill out a demographic questionnaire (see: 10.17862/cranfield.rd.24079371) which includes electronical and augmented reality background questionnaire to check whether they had done some tasks related electronics system and if they were familiar with the use of AR prior to the experiment. After that, each participant was given a questionnaire with questions related to the studied wiring task to test their initial knowledge about the system. The test consisted of questions about the identification of different components they would use during the task and about general knowledge given during the experiment. Following this, a total of thirteen participants were involved in this experiment where four people were assigned in traditional AR group, five people in the enhanced AR group, and four people in the paper-based document group. They were all students (Male = 6, Female = 7) and aged between 25 and 35 years old. Their knowledge about electronics was balanced across the groups (See Section 4.1). The test was graded over 11 questions and was also given after they finished the task to measure the amount of information they learned after going through a training (short term retention test). One week later, each participant was assessed again with the same questionnaire to test their capability to remember what they learned (long term retention test). The duration of a week has been used in many studies for memory retention test [16,26]. Furthermore, participants were not told that the questionnaire would be the same after one week. Existing studies that measured task learnability typically focused on
 
-Traditional AR-based training system
+Traditional AR-based training system showing the overview of the electronic wiring system and assembly instructions in textual form and video.
 
 Fig. 2. Traditional AR-based training system: (a) the overview of the electronic wiring system, (b) assembly instructions in the textual form and video.
 
@@ -174,15 +207,8 @@ member of ASTRA
 
 # PT UNITED TRACTORS Tbk DAN ENTITAS ANAK
 
-PERNYATAAN DIREKSI
-TENTANG TANGGUNG JAWAB TERHADAP
-LAPORAN KEUANGAN
-KONSOLIDASIAN INTERIM
-PT UNITED TRACTORS Tbk
-DAN ENTITAS ANAK (“GRUP”)
-TANGGAL 31 MARET 2024 DAN 31 DESEMBER 2023
-SERTA PERIODE-PERIODE TIGA BULAN
-YANG BERAKHIR 31 MARET 2024 DAN 2023
+PERNYATAAN DIREKSI TENTANG TANGGUNG JAWAB TERHADAP LAPORAN KEUANGAN KONSOLIDASIAN INTERIM PT UNITED TRACTORS Tbk DAN ENTITAS ANAK (“GRUP”) TANGGAL 31 MARET 2024 DAN 31 DESEMBER 2023 SERTA PERIODE-PERIODE TIGA BULAN YANG BERAKHIR 31 MARET 2024 DAN 2023
+
 
 Kami yang bertanda tangan di bawah ini:
 
@@ -191,6 +217,7 @@ Kami yang bertanda tangan di bawah ini:
     Alamat rumah : Jl. Wijaya Kusuma 49 Cilandak Jakarta Selatan
     No. Telepon : 021 - 24579999
     Jabatan : Presiden Direktur
+
 2.  Nama : Vilihati Surya
     Alamat kantor : Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910
     Alamat rumah : Jl. Janur Elok VII QF-7/11A Kelapa Gading Jakarta Utara
@@ -210,15 +237,7 @@ Demikian pernyataan ini dibuat dengan sebenarnya.
 
 # PT UNITED TRACTORS Tbk AND SUBSIDIARIES
 
-BOARD OF DIRECTORS’ STATEMENT
-REGARDING THE RESPONSIBILITY FOR
-THE INTERIM CONSOLIDATED
-FINANCIAL STATEMENTS
-OF PT UNITED TRACTORS Tbk
-AND SUBSIDIARIES (THE “GROUP”)
-AS AT 31 MARCH 2024 AND 31 DECEMBER 2023
-AND FOR THE THREE-MONTH PERIODS
-ENDED 31 MARCH 2024 AND 2023
+BOARD OF DIRECTORS’ STATEMENT REGARDING THE RESPONSIBILITY FOR THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS OF PT UNITED TRACTORS Tbk AND SUBSIDIARIES (THE “GROUP”) AS AT 31 MARCH 2024 AND 31 DECEMBER 2023 AND FOR THE THREE-MONTH PERIODS ENDED 31 MARCH 2024 AND 2023
 
 We, the undersigned:
 1.  Name : FXL Kesuma
@@ -226,6 +245,7 @@ We, the undersigned:
     Residential address: Jl. Wijaya Kusuma 49 Cilandak Jakarta Selatan
     Telephone No. : 021 - 24579999
     Title : President Director
+
 2.  Name : Vilihati Surya
     Office address : Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910
     Residential address: Jl. Janur Elok VII QF-7/11A Kelapa Gading Jakarta Utara
@@ -266,11 +286,9 @@ PT UNITED TRACTORS Tbk | Jl. Raya Bekasi Km 22, Jakarta 13910 - Indonesia | T: +
 
 Lampiran 1/1 Schedule
 
-## LAPORAN POSISI KEUANGAN KONSOLIDASIAN INTERIM 31 MARET 2024 DAN 31 DESEMBER 2023
-(Dinyatakan dalam jutaan Rupiah, kecuali dinyatakan lain)
-
-## INTERIM CONSOLIDATED STATEMENTS OF FINANCIAL POSITION 31 MARCH 2024 AND 31 DECEMBER 2023
-(Expressed in millions of Rupiah, unless otherwise stated)
+| LAPORAN POSISI KEUANGAN KONSOLIDASIAN INTERIM 31 MARET 2024 DAN 31 DESEMBER 2023 | RIM CONSOLIDATED STATEMENTS OF FINANCIAL POSITION 31 MARCH 2024 AND 31 DECEMBER 2023 |
+| --- | --- |
+| (Dinyatakan dalam jutaan Rupiah, kecuali dinyatakan lain) | (Expressed in millions of Rupiah, unless otherwise stated) |
 
 | | 31/03/2024 | Catatan/ Notes | 31/12/2023 | |
 |---|---|---|---|---|
