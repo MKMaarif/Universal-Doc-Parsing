@@ -84,11 +84,11 @@ def extract_elements_to_text(elements, figures):
     return "\n\n".join(string)
 
 # Extract elements from PDF
-def extract_elements(pdf_path, pages):
+def extract_elements(pages):
 
     # Extract all elements from the PDF pages
-    for page in enumerate(pages):
-        element = element_extractor(pages)
+    for page in pages:
+        element = element_extractor(page["image"])
         page["text"] = extract_elements_to_text(element, page["figures"])
 
     return pages

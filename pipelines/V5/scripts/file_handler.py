@@ -1,4 +1,6 @@
 import os
+from dotenv import load_dotenv
+load_dotenv()
 from pdf2image import convert_from_path
 
 # handle image size
