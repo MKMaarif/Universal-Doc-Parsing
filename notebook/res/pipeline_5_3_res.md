@@ -1,10 +1,10 @@
-# PFU Business report
+## PFU Business report
 
 New customer's development and increasing the sale of product
 
 My country economy at this season keeps escaping from Odoba of business though holds a crude oil high so on unstable element that continues still, and recovering gradually and well. In the IT industry, there is an influence such as competing intensification in narrowing investment field.
 
-## [The main product and service at this season]
+### [The main product and service at this season]
 
 @From the product headquarters
 
@@ -23,15 +23,15 @@ A3 high-speed, two sided color scanner "fi-5900C" that 100 high-n function to en
 | Usually  | 20%        |
 | Bad      | 7%         |
 
-The DLM solution that used received the rise of the concern to efficient
-
 Satisfaction rating to new product
+
+The DLM solution that used received the rise of the concern to efficient
 
 management and internal management of the corporate private circum-
 
 stances report in recent years and attracted attention. The function of software that the inspection of data is possible the sense that turns over the file is strengthened, and easiness to use has been improved.
 
-## [approach on business risk]
+### [approach on business risk]
 
 In-house activity
 
@@ -115,11 +115,11 @@ D. Ariansyah et al.
 
 Fig. 4. Mean Task Completion Time.
 
-| Category           | Number of Mistakes |
-|--------------------|---------------------|
-| Traditional AR    | 1                   |
-| Enhanced AR        | 0.6                 |
-| Paper-based        | 1.75                |
+| Method                | Mean Number of Mistakes |
+|-----------------------|-------------------------|
+| Traditional AR        | 1                       |
+| Enhanced AR           | 0.6                     |
+| Paper-based           | 1.75                    |
 
 Fig. 5. Mean number of mistakes.
 
@@ -156,11 +156,11 @@ Many applications have shown that AR technology can improve learnability when ac
 
 The results in the retention test showed that all users demonstrated statistically significant understanding in the given task regardless of which training system (see Table 5). However, users in the AR groups were able to get an overall higher number of correct answers (18% for the traditional and ~25 % for the enhanced) than paper-based manual despite completion time and number of mistakes committed were similar across groups. Although the differences were not significant in the short-term test, the higher scores observed in AR groups could be due to more extraneous processing occurred in the paper-based manual group whereas more essential processing occurred in the AR groups. Essential processing involves intrinsic load or essential material/
 
-| Category | Success Rate (%) |
-|----------|------------------|
-| Traditional AR | 50%              |
-| Enhanced AR     | 80%              |
-| Paper-based     | 25%              |
+| Success Rate (%) | Method          |
+|------------------|-----------------|
+| 50%              | Traditional AR  |
+| 80%              | Enhanced AR     |
+| 25%              | Paper-based     |
 
 Fig. 6. Success rate of wiring a second sensor.
 
@@ -174,15 +174,14 @@ CIRP Journal of Manufacturing Science and Technology 48 (2024) 19-27
 graph TD
     A[Image recognition] --> B[Vuforia]
     B --> C[Image fetched in database]
-    D[Unity] --> E[MRTK Mixed Reality Toolkit]
-    D --> F[Vuforia Extension]
-    E --> G[Visual Studio]
+    C --> D[Unity]
+    D --> E[MRTK]
+    E --> F[Unity + Vuforia Extension]
+    F --> G[Visual Studio]
     G --> H[App deployment]
     H --> I[Microsoft HoloLens 2]
     I --> J[Final app]
-    C --> K[Welcome to the sensor wiring task]
-    K --> L[Continue]
-```
+    J --> K[Welcome to the sensor wiring task]
 
 Fig. 1. System architecture of AR system.
 
@@ -192,7 +191,9 @@ Further, the task was tested under three different learning interfaces: (1) a pa
 
 3.3.1.2. The traditional AR-based training system. This training system replicated most of AR systems used for learning the assembly tasks which include textual information, graphical objects (e.g. arrow) for pointing certain objects, and videos. Users were initially presented with an overview of the electronic system and its all components using tooltips and graphical arrows (See Fig. 2(a)). To acquire skills in wiring the system, assembly instructions were presented step by step on top of the workspace in the form of texts as well as videos which describe the task and how to do it (See Fig. 2(b)). The users can pause and play the video as much as they like and proceed to the next step.
 
-3.3.1.3. The enhanced AR-based training system. The enhanced AR- based training system was similar to the traditional one regarding the contents. However, it had voice cues (multimodal information) that gives additional context and information to the user. For example, during the unscrewing part of the power supply, the voice cue gives additional information on how to perform the task: “To loosen the screws, do two or three counterclockwise turns with the screwdriver on both screws”. It also included common mistakes and consequences panel after each step to enable the user to grasp the significance of their actions and increase the understanding of the system behavior (projec- tion of the given states and their consequences) as shown in Fig. 3.
+3.3.1.3. The enhanced AR-based training system. The enhanced AR- based training system was similar to the traditional one regarding the contents. However, it had voice cues (multimodal information) that gives additional context and information to the user. For example, during the unscrewing part of the power supply, the voice cue gives additional information on how to perform the task: “To loosen the screws, do two or three counterclockwise turns with the screwdriver on both screws”. It also included common mistakes and consequences panel after each step to enable the user to grasp the significance of their
+
+actions and increase the understanding of the system behavior (projec- tion of the given states and their consequences) as shown in Fig. 3.
 
 3.3.2. Experimental procedure
 
@@ -200,10 +201,10 @@ To examine how different methods of learning affect users in understanding the t
 
 The test consisted of questions about the identification of different components they would use during the task and about general knowl- edge given during the experiment. Following this, a total of thirteen participants were involved in this experiment where four people were assigned in traditional AR group, five people in the enhanced AR group, and four people in the paper-based document group. They were all students (Male = 6, Female = 7) and aged between 25 and 35 years old. Their knowledge about electronics was balanced across the groups (See Section 4.1). The test was graded over 11 questions and was also given after they finished the task to measure the amount of information they learned after going through a training (short term retention test). One week later, each participant was assessed again with the same questionnaire to test their capability to remember what they learned (long term retention test). The duration of a week has been used in many studies for memory retention test [16,26]. Furthermore, participants were not told that the questionnaire would be the same after one week. Existing studies that measured task learnability typically focused on
 
-Traditional AR-based training system showing (a) the overview of the electronic wiring system and (b) assembly instructions in textual form and video.
+The image shows two parts of a traditional AR-based training system. Part (a) displays an overview of an electronic wiring system with various components like a power supply, terminal block, and Arduino board. Part (b) presents assembly instructions in both textual form and video format, specifically for wiring the power supply.
 
 Fig. 2. Traditional AR-based training system: (a) the overview of the electronic wiring system, (b) assembly instructions in the textual form and video.
-
+```
 
 ---
 
@@ -234,6 +235,7 @@ No. Telepon Jabatan
    : Presiden Direktur
    Telephone No. Title
    021 — 24579999
+   : President Director
 2. Nama Alamat kantor
    : Vilihati Surya
    Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910
@@ -241,26 +243,26 @@ No. Telepon Jabatan
    Vilihati Surya
    Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910
 Alamat rumah
-   :
-   :
-   :
-   Jl. Janur Elok VII QF-7/11A Kelapa Gading Jakarta Utara 021 -24579999 Direktur
-Residential address vi. Janur Elok VII QF-7/11A Kelapa Gading Jakarta Utara 021 — 24579999 : Director
-Telephone No. Title
-menyatakan bahwa:
-declare that:
-1. Kami bertanggung jawab atas penyusunan dan penyajian laporan keuangan konsolidasian interim Grup;
-1. We are responsible for the preparation and presentation of the Group’s interim consolidated financial statements;
-2. Laporan ,keuangan konsolidasian interim Grup telah disusun dan disajikan sesuai dengan Standar Akuntansi Keuangan di Indonesia;
-2. The Group’s interim consolidated financial statements have been prepared and presented in accordance with the Indonesian Financial Accounting Standards;
-3.
+   : Jl. Janur Elok VII QF-7/11A Kelapa Gading Jakarta Utara
+Residential address
+   Jl. Janur Elok VII QF-7/11A Kelapa Gading Jakarta Utara
+No. Telepon Jabatan
+   : 021 -24579999
+   : Direktur
+   Telephone No. Title
+   menyatakan bahwa:
+   declare that:
+   1. Kami bertanggung jawab atas penyusunan dan penyajian laporan keuangan konsolidasian interim Grup;
+   1. We are responsible for the preparation and presentation of the Group’s interim consolidated financial statements;
+   2. Laporan ,keuangan konsolidasian interim Grup telah disusun dan disajikan sesuai dengan Standar Akuntansi Keuangan di Indonesia;
+   2. The Group’s interim consolidated financial statements have been prepared and presented in accordance with the Indonesian Financial Accounting Standards;
+   3.
    a. Semua\_ informasi dalam laporan keuangan konsolidasian interim Grup telah dimuat secara lengkap dan benar;
-3.
    a. All information in the Group’s interim consolidated financial statements has been disclosed in a complete and truthful manner;
    b. Laporan keuangan konsolidasian interim Grup tidak mengandung informasi atau fakta material yang tidak benar, dan tidak menghilangkan informasi atau fakta material;
-b. The Group’s interim consolidated financial statements do not contain any incorrect information or material fact, nor do they omit information or material fact;
-4. Kami bertanggung jawab atas sistem pengendalian internal dalam Grup.
-4. We are responsible for Group’s internal control system.
+   b. The Group’s interim consolidated financial statements do not contain any incorrect information or material fact, nor do they omit information or material fact;
+   4. Kami bertanggung jawab atas sistem pengendalian internal dalam Grup.
+   4. We are responsible for Group’s internal control system.
 
 Demikian pernyataan ini dibuat dengan sebenarnya.
 
