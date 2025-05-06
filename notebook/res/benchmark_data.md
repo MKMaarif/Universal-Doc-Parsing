@@ -55,153 +55,6 @@ Satisfaction rating to new product
 
 ---
 
-CIRP Journal of Manufacturing Science and Technology 48 (2024) 19-27
-
-Contents lists available at ScienceDirect
-
-# CIRP Journal of Manufacturing Science and Technology
-
-journal homepage: www.elsevier.com/locate/cirpj
-
-# Augmented reality training for improved learnability
-
-Dedy Ariansyah a, Bens Pardamean a,b, Eddine Barbaro c, John Ahmet Erkoyuncu c,*
-
-a Bioinformatics & Data Science Research Center, Bina Nusantara University, Jakarta 11480, Indonesia
-b Computer Science Department, BINUS Graduate Program - Master of Computer Science, Bina Nusantara University, Jakarta 11480, Indonesia
-c School of Aerospace, Transport and Manufacturing, Cranfield, Bedfordshire MK43 0AL, UK
-
-## ARTICLE INFO
-
-Keywords:
-Augmented Reality
-Learnability
-Training
-Industry 4.0
-Industry 5.0
-
-## ABSTRACT
-
-In the current era of Industry 4.0, many new technologies offer manufacturing industries to achieve high productivity. Augmented Reality (AR) is one of the emerging technologies that has been adopted in industries to aid users in acquiring complex skills and carrying out many complicated tasks such product assembly and maintenance. Nevertheless, most AR applications have been developed without clear understanding of how such technology can facilitate improved learnability in terms of knowledge reusability. This paper proposed an enhanced AR-based training system that provides multimodal information with a contextualized information to improve task comprehension and knowledge reusability compared with traditional AR that presents unimodal and decontextualized information. An empirical test was carried out to assess the task performance and the task learnability aspects of this enhanced AR compared to the traditional AR and the paper-based document. The experiment consisted of a training phase where participants carried out an electrical connection task of a sensor followed by a knowledge reuse phase where participants had to wire a second sensor using their previous training. A pre-test quiz was given before the experiment followed by the post-tests phase after the training. Post-tests consist of one post-test given directly after the experiment (short-term retention test) and a second post-test quiz given one week later (long-term retention test) to measure information retention. The results indicated that AR-based approaches could enhance knowledge acquisition by around 18 % for traditional AR and almost 25 % for enhanced AR as compared to paper-based approach. While all training systems achieved relatively equivalent well for short-term retention test, trainees who used the enhanced AR training systems statistically outperformed those in the paper-based group for long term retention test. Furthermore, there was a positive correlation between the score of short-term retention test and the score in the knowledge reusability which was also shown by the higher scores in knowledge reusability for the enhanced AR training system compared to the other two approaches. These findings are discussed in relation to the Industry 5.0's human centric core value.
-
-## 1. Introduction
-
-The adoption of Industry 4.0 technologies enables new capabilities to produce and to deliver product faster with a better quality, and more cost efficient. However, this industrial revolution is leading to an increased complexity of manufacturing systems and an increasingly rapid renewal of these systems. Consequently, upskilling employees' competencies to handle and maintain the complex engineering assets (CEAs) is indispensable. In recent years, finding a skilled worker has become a difficult task. The reason is that there is a talent shortage nowadays. Indeed, in 2018, 45 % of employers said that they could not find the necessary skills among candidates [17]. Furthermore, a new issue will arise from adapting to the changing job dynamics brought about by digitalization [27]. Despite the increased interconnectedness and availability of information globally, the progress of digitalization has not been uniformed across countries or even within industries within the same country [14]. To face this challenge and meet with the adoption of Industry 4.0, employers need to find a new way to ensure their workforces are sufficiently equipped to work with CEAs. In the aviation sector, research examined that traditional training such as in-class training and paper-based manual are not reliable means for teaching job tasks and the skills for visual inspection for the future trend in aviation [11,29]. Visual inspection requires Aircraft Maintenance Technician (AMT) to identify certain characteristics of all types of faults and make decision to troubleshoot various systems from one airplane to another. Due to highly complexity and interrelated components in the
-
-* Corresponding author.
-
-E-mail address: j.a.erkoyuncu@cranfield.ac.uk (J.A. Erkoyuncu).
-
-https://doi.org/10.1016/j.cirpj.2023.11.003
-
-Received 29 March 2023; Received in revised form 4 September 2023; Accepted 2 November 2023
-Available online 6 December 2023
-
-1755-5817/� 2024 The Authors. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
-
----
-
-D. Ariansyah et al.
-
-CIRP Journal of Manufacturing Science and Technology 48 (2024) 19–27
-
-| Type          | Mean Task Completion Time (min) |
-|---------------|--------------------------------:|
-| Traditional AR| 19.26                           |
-| Enhanced AR   | 19.57                           |
-| Paper-based   | 20.47                           |
-
-Fig. 4. Mean Task Completion Time.
-
-| Type          | Mean number of mistakes |
-|---------------|------------------------:|
-| Traditional AR| 1.00                    |
-| Enhanced AR   | 0.60                    |
-| Paper-based   | 1.75                    |
-
-Fig. 5. Mean number of mistakes.
-
-among groups ((F(2,10) = 1.335, p = 0.306).
-
-### 4.8. Knowledge retention and reusability correlation
-
-The associations between knowledge retention and knowledge reusability along as well as between short- and long-term retention were shown on the Table 6. Point-Biserial Correlation determined that
-
-Table 6
-Knowledge retention scores relative to the baseline.
-
-|                    | Traditional AR group (4 People) | Enhanced AR group (5 People) | Paper-based group (4 People) |
-|--------------------|---------------------------------|------------------------------|------------------------------|
-| ST                 | * *61.37 %                      | * *67.27 %                   | * 43.18 %                    |
-| LT                 | * *54.54 %                      | * *74.54 %                   | * 40.91 %                    |
-| LT - ST            | -6.83 %                         | 7.27 %                       | -2.27 %                      |
-|ST (short-term), LT (long-term)|                      |                              |                              |
-
-*p < 0.05
-**p < 0.01
-
-knowledge reusability had a statistically significant positive correlation with short-term retention score (rpb = 0.672, n = 13, p = 0.012), but not for long-term retention scores (rpb = 0.466, n = 13, p = 0.108). However, when knowledge retention between short- and long-term was analyzed, Pearson's correlation showed that there was a positive correlation between both, which was statistically significant (rp = 0.717, n = 13, p = 0.006). Fig. 6 illustrates the comparison for the success rate of wiring a second sensor by comparing the traditional AR, Enhanced AR and Paper based approaches, achieving 50%, 80% and 25% respectively.
-
-## 5. Discussion
-
-Many applications have shown that AR technology can improve learnability when acquiring new skills or concepts over traditional training in terms of knowledge comprehension rate and knowledge retention. The superiority of AR lies in its capability to overlay interactive and animated information in a timely manner. This helps to increase user's motivation to engage with the content which is essential to encourage learning. Besides, allowing users to see the necessary information at a favorable time results in a more efficient use of cognitive resources and in turn accommodates more learning. Nevertheless, the current paradigm in using AR for training seems to focus on a limited aspect of productivity such as task performance and knowledge retention enablement. In the light of Industry 5.0 which emphasizes on human centric, sustainability, and resilience, technology is expected to be developed in ways that serve human needs for upskilling or reskilling, with efficient use of resources, and better equip human to deal with uncertainties [15,31]. In attempt to expand the knowledge in this area, this study sought to base the development of AR system for training on human centric principles to facilitate meaningful learning and achieve improved learnability in terms of retention test and transfer test (see Table 7).
-
-The results in the retention test showed that all users demonstrated statistically significant understanding in the given task regardless of which training system (see Table 5). However, users in the AR groups were able to get an overall higher number of correct answers (18% for the traditional and ~25 % for the enhanced) than paper-based manual despite completion time and number of mistakes committed were similar across groups. Although the differences were not significant in the short-term test, the higher scores observed in AR groups could be due to more extraneous processing occurred in the paper-based manual group whereas more essential processing occurred in the AR groups. Essential processing involves intrinsic load or essential material/
-
-| Type          | Success rate |
-|---------------|-------------:|
-| Traditional AR| 50%          |
-| Enhanced AR   | 80%          |
-| Paper-based   | 25%          |
-
-Fig. 6. Success rate of wiring a second sensor.
-
----
-
-D. Ariansyah et al.
-
-CIRP Journal of Manufacturing Science and Technology 48 (2024) 19–27
-
-```mermaid
-graph TD
-    A[Image recognition] --> B[Vuforia]
-    B --> C[Image fetched in database]
-    C --> D[Unity]
-    D --> E[MRTK]
-    D --> F[Unity + vuforia Extension]
-    E --> G[App build]
-    F --> G[App build]
-    G --> H[Visual Studio]
-    H --> I[App deployment]
-    I --> J[Microsoft HoloLens 2]
-    J --> K[Final app]
-```
-
-Fig. 1. System architecture of AR system.
-
-Further, the task was tested under three different learning interfaces:
-(1) a paper-based document that serves as a control group against AR
-systems, (2) a traditional AR-based training system, and (3) an enhanced
-AR-based training system that was developed by applying design principles that encourage meaningful learning.
-
-### 3.3.1.1. The paper-based document
-The paper-based document (see: 10.17862/cranfield.rd.24079371) contains all information about the electronic system and its components. It also consists of a step-by-step information in the form of textual instruction and pictures to complete a wiring task.
-
-### 3.3.1.2. The traditional AR-based training system
-This training system replicated most of AR systems used for learning the assembly tasks which include textual information, graphical objects (e.g. arrow) for pointing certain objects, and videos. Users were initially presented with an overview of the electronic system and its all components using tooltips and graphical arrows (See Fig. 2(a)). To acquire skills in wiring the system, assembly instructions were presented step by step on top of the workspace in the form of texts as well as videos which describe the task and how to do it (See Fig. 2(b)). The users can pause and play the video as much as they like and proceed to the next step.
-
-### 3.3.1.3. The enhanced AR-based training system
-The enhanced AR-based training system was similar to the traditional one regarding the contents. However, it had voice cues (multimodal information) that gives additional context and information to the user. For example, during the unscrewing part of the power supply, the voice cue gives additional information on how to perform the task: "To loosen the screws, do two or three counterclockwise turns with the screwdriver on both screws". It also included common mistakes and consequences panel after each step to enable the user to grasp the significance of their actions and increase the understanding of the system behavior (projection of the given states and their consequences) as shown in Fig. 3.
-
-### 3.3.2. Experimental procedure
-To examine how different methods of learning affect users in understanding the task and reusing the acquired knowledge to a different situation, this study assessed independent groups of users (between-subjects test) who were assigned to each learning method to learn the same task. Each participant was asked to fill out a demographic questionnaire (see: 10.17862/cranfield.rd.24079371) which includes electronical and augmented reality background questionnaire to check whether they had done some tasks related electronics system and if they were familiar with the use of AR prior to the experiment. After that, each participant was given a questionnaire with questions related to the studied wiring task to test their initial knowledge about the system. The test consisted of questions about the identification of different components they would use during the task and about general knowledge given during the experiment. Following this, a total of thirteen participants were involved in this experiment where four people were assigned in traditional AR group, five people in the enhanced AR group, and four people in the paper-based document group. They were all students (Male = 6, Female = 7) and aged between 25 and 35 years old. Their knowledge about electronics was balanced across the groups (See Section 4.1). The test was graded over 11 questions and was also given after they finished the task to measure the amount of information they learned after going through a training (short term retention test). One week later, each participant was assessed again with the same questionnaire to test their capability to remember what they learned (long term retention test). The duration of a week has been used in many studies for memory retention test [16,26]. Furthermore, participants were not told that the questionnaire would be the same after one week. Existing studies that measured task learnability typically focused on
-
-Traditional AR-based training system showing the overview of the electronic wiring system and assembly instructions in textual form and video.
-
-Fig. 2. Traditional AR-based training system: (a) the overview of the electronic wiring system, (b) assembly instructions in the textual form and video.
-
----
-
 # UNITED TRACTORS
 member of ASTRA
 
@@ -290,8 +143,8 @@ Lampiran 1/1 Schedule
 | --- | --- |
 | (Dinyatakan dalam jutaan Rupiah, kecuali dinyatakan lain) | (Expressed in millions of Rupiah, unless otherwise stated) |
 
-| | 31/03/2024 | Catatan/ Notes | 31/12/2023 | |
-|---|---|---|---|---|
+|   | 31/03/2024 | Catatan/ Notes | 31/12/2023 |   |
+|---|------------|----------------|------------|---|
 | Aset | | | | Assets |
 | Aset lancar | | | | Current assets |
 | Kas dan setara kas | 22,246,140 | 3 | 18,596,609 | Cash and cash equivalents |
@@ -339,3 +192,103 @@ Lampiran 1/1 Schedule
 Catatan atas laporan keuangan konsolidasian merupakan bagian yang tidak terpisahkan dari laporan keuangan konsolidasian.
 
 The accompanying notes form an integral part of these consolidated financial statements.
+
+---
+
+# Sales Statistics
+
+Larana, Inc. | 2024
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam egestas porta mattis. Fusce purus tellus, vulputate vitae accumsan sit amet, viverra quis nulla. Duis suscipit euismod felis. Sed eget sapien eleifend risus eleifend dictum.
+
+## This Month's Most Sold Product
+
+| Week | Shirt | Blazer | Dress |
+|------|-------|--------|--------|
+| 1    | 5     | 14     | 10     |
+| 2    | 7     | 18     | 16     |
+| 3    | 8     | 13     | 14     |
+| 4    | 12    | 18     | 8      |
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam egestas porta mattis. Fusce purus tellus, vulputate vitae accumsan sit amet, viverra quis nulla. Duis suscipit euismod felis. Sed eget sapien eleifend risus eleifend dictum.
+
+## Sales Statistics
+
+| Category | Percentage |
+|----------|------------|
+| Shirt    | 47%        |
+| Blazer   | 69%        |
+| Dress    | 80%        |
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam egestas porta mattis. Fusce purus tellus, vulputate vitae accumsan sit amet, viverra quis nulla.
+
+## This Month's Sales Statistics
+
+| Item | Value 1 | Value 2 |
+|------|---------|---------|
+| Item 1 | 0       | 5       |
+| Item 2 | 30      | 10      |
+| Item 3 | 15      | 35      |
+| Item 4 | 25      | 10      |
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam egestas porta mattis. Fusce purus tellus, vulputate vitae accumsan sit amet, viverra quis nulla. Duis suscipit euismod felis. Sed eget sapien eleifend risus eleifend dictum.
+
+---
+
+Sheet 1
+
+| 0 | First Name | Last Name | Gender | Country | Age | Date | Id |
+|---|------------|-----------|--------|---------|-----|------|----|
+
+| 1 | Dulce | Abril | Female | United States | 32 | 15/10/2017 | 1562 |
+| 2 | Mara | Hashimoto | Female | Great Britain | 25 | 16/08/2016 | 1582 |
+| 3 | Philip | Gent | Male | France | 36 | 21/05/2015 | 2587 |
+| 4 | Kathleen | Hanner | Female | United States | 25 | 15/10/2017 | 3549 |
+| 5 | Nereida | Magwood | Female | United States | 58 | 16/08/2016 | 2468 |
+| 6 | Gaston | Brumm | Male | United States | 24 | 21/05/2015 | 2554 |
+| 7 | Etta | Hurn | Female | Great Britain | 56 | 15/10/2017 | 3598 |
+| 8 | Earlean | Melgar | Female | United States | 27 | 16/08/2016 | 2456 |
+| 9 | Vincenza | Weiland | Female | United States | 40 | 21/05/2015 | 6548 |
+| 10 | Fallon | Winward | Female | Great Britain | 28 | 16/08/2016 | 5486 |
+| 11 | Arcelia | Bouska | Female | Great Britain | 39 | 21/05/2015 | 1258 |
+| 12 | Franklyn | Unknow | Male | France | 38 | 15/10/2017 | 2579 |
+| 13 | Sherron | Ascencio | Female | Great Britain | 32 | 16/08/2016 | 3256 |
+| 14 | Marcel | Zabriskie | Male | Great Britain | 26 | 21/05/2015 | 2587 |
+| 15 | Kina | Hazelton | Female | Great Britain | 31 | 16/08/2016 | 3259 |
+| 16 | Shavonne | Pia | Female | France | 24 | 21/05/2015 | 1546 |
+| 17 | Shavon | Benito | Female | France | 39 | 15/10/2017 | 3579 |
+| 18 | Lauralee | Perrine | Female | Great Britain | 28 | 16/08/2016 | 6597 |
+| 19 | Loreta | Curren | Female | France | 26 | 21/05/2015 | 9654 |
+| 20 | Teresa | Strawn | Female | France | 46 | 21/05/2015 | 3569 |
+| 21 | Belinda | Partain | Female | United States | 37 | 15/10/2017 | 2564 |
+| 22 | Holly | Eudy | Female | United States | 52 | 16/08/2016 | 8561 |
+| 23 | Many | Cuccia | Female | Great Britain | 46 | 21/05/2015 | 5489 |
+| 24 | Libbie | Dalby | Female | France | 42 | 21/05/2015 | 5489 |
+| 25 | Lester | Prothro | Male | France | 21 | 15/10/2017 | 6574 |
+| 26 | Marvel | Hail | Female | Great Britain | 28 | 16/08/2016 | 5555 |
+| 27 | Angelyn | Vong | Female | United States | 29 | 21/05/2015 | 6125 |
+| 28 | Francesca | Beaudreau | Female | France | 23 | 15/10/2017 | 5412 |
+| 29 | Garth | Gangi | Male | United States | 41 | 16/08/2016 | 3256 |
+| 30 | Carla | Trumbull | Female | Great Britain | 28 | 21/05/2015 | 3264 |
+| 31 | Veta | Muntz | Female | Great Britain | 37 | 15/10/2017 | 4569 |
+| 32 | Stasia | Becker | Female | Great Britain | 34 | 16/08/2016 | 7521 |
+| 33 | Jona | Grindle | Female | Great Britain | 26 | 21/05/2015 | 6458 |
+| 34 | Judie | Claywell | Female | France | 35 | 16/08/2016 | 7569 |
+| 35 | Dewitt | Borger | Male | United States | 36 | 21/05/2015 | 8514 |
+| 36 | Nena | Hacker | Female | United States | 29 | 15/10/2017 | 8563 |
+| 37 | Kelsie | Wachtel | Female | France | 27 | 16/08/2016 | 8642 |
+| 38 | Sau | Pfau | Female | United States | 25 | 21/05/2015 | 9536 |
+| 39 | Shanice | Mccrystal | Female | United States | 36 | 21/05/2015 | 2567 |
+| 40 | Chase | Karner | Male | United States | 37 | 15/10/2017 | 2154 |
+| 41 | Tommie | Underdahl | Male | United States | 26 | 16/08/2016 | 3265 |
+| 42 | Dorcas | Darity | Female | United States | 37 | 21/05/2015 | 8765 |
+| 43 | Angel | Sanor | Male | France | 24 | 15/10/2017 | 3259 |
+| 44 | Willodean | Harn | Female | United States | 39 | 16/08/2016 | 3567 |
+| 45 | Weston | Martina | Male | United States | 26 | 21/05/2015 | 6540 |
+| 46 | Roma | Lafollette | Female | United States | 34 | 15/10/2017 | 2654 |
+| 47 | Felisa | Cail | Female | United States | 28 | 16/08/2016 | 6525 |
+| 48 | Demetria | Abbey | Female | United States | 32 | 21/05/2015 | 3265 |
+| 49 | Jeromy | Danz | Male | United States | 39 | 15/10/2017 | 3265 |
+| 50 | Rasheeda | Alkire | Female | United States | 29 | 16/08/2016 | 6125 |
+
+Page 1

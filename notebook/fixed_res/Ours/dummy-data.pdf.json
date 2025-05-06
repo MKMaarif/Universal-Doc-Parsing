@@ -1,0 +1,1380 @@
+{
+    "source": "dummy-data.pdf",
+    "pages": [
+        {
+            "index": 0,
+            "markdown": "PFU Business report\n\n# New customer's development and increasing the sale of product\n\nMy country economy at this season keeps escaping from Odoba of business though holds a crude oil high so on unstable element that continues still, and recovering gradually and well. In the IT industry, there is an influence such as competing intensification in narrowing investment field.\n\n## [The main product and service at this season]\n\n### From the product headquarters\n\nIn the image business, the new model turning on of the A3 high-speed, two-sided color scanner that achieved a high-speed reading aimed at. wroom was established in United States, Europe, and Asia/Oceania.\n\n#### @Image business\n\n1) **Scanner class**\n\nA3 high-speed, two-sided color scanner \"fi-5900C\" that 100 high-n function to enable industry-leading was installed was announced in ScanSnap gotten popular because of an office and individual use.\n\n2) **DLM solution scanner**\n\nThe DLM solution that used received the rise of the concern to efficient management and internal management of the corporate private circumstances report in recent years and attracted attention. The function of software that the inspection of data is possible the sense that turns over the file is strengthened, and easiness to use has been improved.\n\n### Satisfaction rating to new product\n\n| Category | Percentage |\n|----------|------------|\n| usually  | 7%         |\n| good     | 26%        |\n| very good| 47%        |\n| bad      | 20%        |\n\n## [approach on business risk]\n\n### @In-house activity\n\nThe attestation intended for each office in Shinbashi, Kansai, and Tokai was acquired in environment ISO in February, 2006. In addition, it participates in the minus 6% that is a national movement of the global warming prevention, and \"Culbiz\" is done. The scandal of the enterprise has frequently generated is received, concern is sent to the system maintenance including the observance of the law in recent years.\n\n### Enhancement of system of management\n\nThe committee that aimed at the decrease of a variety of business risks in an individual business talk was newly established. Moreover, the recognition of \"Privacy mark\" is received to manage customer and employee's individual information appropriately in 2001, and the activity based on the protection of individual information policy is continued. It is.bAsia/Oceania in globalln addition, our technology, commodity power, and correspondence power were evaluating acquired.\n\n### Satisfaction rating to new product\n\n| Year | Value |\n|------|-------|\n| 1998 | 75    |\n| 1999 | 30    |\n| 2000 | 65    |\n| 2001 | 55    |\n| 2002 | 35    |\n| 2003 | 100   |\n| 2004 | 15    |",
+            "text": "PFU Business report\n\nNew customer's development and increasing the sale of product\n\nMy country economy at this season keeps escaping from Odoba of business though holds a crude oil high so on unstable element that continues still, and recovering gradually and well. In the IT industry, there is an influence such as competing intensification in narrowing investment field.\n\n[The main product and service at this season]\n\nFrom the product headquarters\n\nIn the image business, the new model turning on of the A3 high-speed, two sided color scanner that achieved a high-speed reading aimed at. wroom was established in United States, Europe, and Asia/Oceania.\n\n@image business\n\n1) Scanner class\n\nA3 high-speed, two sided color scanner \"fi-5900C\" that 100 high-n function to enable industry-leading was installed was announced in ScanSnap gotten popular because of an office and individual use. 2) DLM solution scanner\n\n| Category | Percentage |\n|----------|------------|\n| usually  | 7%         |\n| good     | 26%        |\n| very good| 47%        |\n| bad      | 20%        |\n\nThe DLM solution that used received the rise of the concern to efficient\n\nSatisfaction rating to new product\n management and internal management of the corporate private circumstances report in recent years and attracted attention. The function of software that the inspection of data is possible the sense that turns over the file is strengthened, and easiness to use has been improved.\n by\n\n[approach on business risk]\n\n@in-house activity\n\nThe attestation intended for each office in Shinbashi, Kansai, and Tokai was acquired in environment ISO in February, 2006. In addition, it participates in the minus 6% that is a national movement of the global warming prevention, and \"Culbiz\" is done. The scandal of the enterprise has frequently generated is received, concem is sent to the system maintenance including the observance of the law in recent years.\n\nEnhancement of system of management\n\nThe committee that aimed at the decrease of a variety of business risks in an individual business talk was newly established. Moreover, the recognition of \"Privacy mark\" is received to manage customer and employee's individual information appropriately in 2001, and the activity based on the protection of individual information policy is continued. It is.bAsia/Oceania in globalln addition, our technology, commodity power, and correspondence power were evaluating acquired.\n\n| Year | Value |\n|------|-------|\n| 1998 | 75    |\n| 1999 | 30    |\n| 2000 | 65    |\n| 2001 | 55    |\n| 2002 | 35    |\n| 2003 | 100   |\n| 2004 | 15    |\n\nSatisfaction rating to new product\n\n",
+            "elements": [
+                {
+                    "idx": 0,
+                    "type": "text",
+                    "bbox": [
+                        43.391822814941406,
+                        35.48101806640625,
+                        236.59597778320312,
+                        53.787437438964844
+                    ],
+                    "text": "PFU Business report"
+                },
+                {
+                    "idx": 1,
+                    "type": "text",
+                    "bbox": [
+                        75.48847198486328,
+                        95.46295166015625,
+                        846.1710815429688,
+                        209.40013122558594
+                    ],
+                    "text": "New customer's development and increasing the sale of product"
+                },
+                {
+                    "idx": 2,
+                    "type": "text",
+                    "bbox": [
+                        53.190391540527344,
+                        236.5168914794922,
+                        864.76513671875,
+                        304.23394775390625
+                    ],
+                    "text": "My country economy at this season keeps escaping from Odoba of business though holds a crude oil high so on unstable element that continues still, and recovering gradually and well. In the IT industry, there is an influence such as competing intensification in narrowing investment field."
+                },
+                {
+                    "idx": 3,
+                    "type": "text",
+                    "bbox": [
+                        50.88587951660156,
+                        363.7298583984375,
+                        493.50091552734375,
+                        386.1860046386719
+                    ],
+                    "text": "[The main product and service at this season]"
+                },
+                {
+                    "idx": 4,
+                    "type": "text",
+                    "bbox": [
+                        47.16902542114258,
+                        409.03045654296875,
+                        338.2393798828125,
+                        429.8694763183594
+                    ],
+                    "text": "From the product headquarters"
+                },
+                {
+                    "idx": 5,
+                    "type": "text",
+                    "bbox": [
+                        42.03645706176758,
+                        434.7684631347656,
+                        592.871337890625,
+                        505.0775451660156
+                    ],
+                    "text": "In the image business, the new model turning on of the A3 high-speed, two sided color scanner that achieved a high-speed reading aimed at. wroom was established in United States, Europe, and Asia/Oceania."
+                },
+                {
+                    "idx": 6,
+                    "type": "text",
+                    "bbox": [
+                        47.62664794921875,
+                        547.4055786132812,
+                        200.3824005126953,
+                        565.135009765625
+                    ],
+                    "text": "@image business"
+                },
+                {
+                    "idx": 7,
+                    "type": "text",
+                    "bbox": [
+                        48.09765625,
+                        572.9522094726562,
+                        177.8285369873047,
+                        591.1099853515625
+                    ],
+                    "text": "1) Scanner class"
+                },
+                {
+                    "idx": 8,
+                    "type": "text",
+                    "bbox": [
+                        38.955543518066406,
+                        597.8687744140625,
+                        591.3123779296875,
+                        691.66943359375
+                    ],
+                    "text": "A3 high-speed, two sided color scanner \"fi-5900C\" that 100 high-n function to enable industry-leading was installed was announced in ScanSnap gotten popular because of an office and individual use. 2) DLM solution scanner"
+                },
+                {
+                    "idx": 9,
+                    "type": "image",
+                    "image_type": "pie chart",
+                    "bbox": [
+                        657.2730102539062,
+                        431.3872985839844,
+                        938.6435546875,
+                        688.3312377929688
+                    ],
+                    "text": "| Category | Percentage |\n|----------|------------|\n| usually  | 7%         |\n| good     | 26%        |\n| very good| 47%        |\n| bad      | 20%        |",
+                    "caption": "image",
+                    "description": "A pie chart showing the distribution of responses to a question about quality, with percentages for each category.",
+                    "ocr_string": "usually 4",
+                    "image_path": "img/figures/0/figure-1-1.jpg",
+                    "image_base64": "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LyvcelAFQ0w1IaYaAGGkpTTaAHCnCminCgBacKaKcKAHClpKUUAOFOFMFOFADwTS5NIKWgBc0UlLQAtBpBSnpQBGOlLSCloAWiiloAKUUgpaAFFLSCloAUUopKcoJPFADlGakpAMCloAKKKKACiiigAooooAqXFrnLRde61RII4IwR2rZqKa3SYfMMH1FAGSabVia1kiycbl9RVfr0oAUUopB0pwoAUU4U0U4UALThTacKAFHWnCminigBwpaSigBaWkFKKAFFDdDRSN92gBtApKWgBaWkpaAClFAooAWloUFugqVIwOvJoAaiFvpUwAAwKKKACiiigAooooAKKKKACiiigAooooAKgmtIpeSu1vUVPRQBmSWMqfdw4/I1AcqcMCp9CK2qayK4wygj3FAGQKcKvPZRMcrlT7VE1k4PyuD9eKAK9OFOMEq9UP4UmCOoI+ooABTxTAacKAH0UCloABS0lLQAtI33aUUj9KAGiloCk9ATTxC57Y+tADKWplt/7zflUixqvQUAV1Rm6CpVhA+9zUtFAAAB0ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKZJ0oooApy9TTBRRQA9etL2oooAUUUUUAOHUVIvSiigCZelLRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB/9k=",
+                    "yolo_index": null
+                },
+                {
+                    "idx": 10,
+                    "type": "text",
+                    "bbox": [
+                        46.0,
+                        700.0,
+                        584.0,
+                        716.0
+                    ],
+                    "text": "The DLM solution that used received the rise of the concern to efficient"
+                },
+                {
+                    "idx": 11,
+                    "type": "text",
+                    "bbox": [
+                        688.4949340820312,
+                        704.6655883789062,
+                        903.45947265625,
+                        719.18701171875
+                    ],
+                    "text": "Satisfaction rating to new product"
+                },
+                {
+                    "idx": 12,
+                    "type": "text",
+                    "bbox": [
+                        46.0,
+                        726.0,
+                        584.0,
+                        745.0
+                    ],
+                    "text": "management and internal management of the corporate private circum-"
+                },
+                {
+                    "idx": 13,
+                    "type": "text",
+                    "bbox": [
+                        45.792945861816406,
+                        751.4458618164062,
+                        961.7395629882812,
+                        795.8802490234375
+                    ],
+                    "text": "stances report in recent years and attracted attention. The function of software that the inspection of data is possible the sense that turns over the file is strengthened, and easiness to use has been improved."
+                },
+                {
+                    "idx": 14,
+                    "type": "text",
+                    "bbox": [
+                        955.0,
+                        754.0,
+                        973.0,
+                        770.0
+                    ],
+                    "text": "by"
+                },
+                {
+                    "idx": 15,
+                    "type": "text",
+                    "bbox": [
+                        49.47486877441406,
+                        859.3421630859375,
+                        315.31072998046875,
+                        879.1829223632812
+                    ],
+                    "text": "[approach on business risk]"
+                },
+                {
+                    "idx": 16,
+                    "type": "text",
+                    "bbox": [
+                        46.7781867980957,
+                        904.1508178710938,
+                        207.655029296875,
+                        922.36962890625
+                    ],
+                    "text": "@in-house activity"
+                },
+                {
+                    "idx": 17,
+                    "type": "text",
+                    "bbox": [
+                        48.25680160522461,
+                        930.8704223632812,
+                        964.4437255859375,
+                        1028.2606201171875
+                    ],
+                    "text": "The attestation intended for each office in Shinbashi, Kansai, and Tokai was acquired in environment ISO in February, 2006. In addition, it participates in the minus 6% that is a national movement of the global warming prevention, and \"Culbiz\" is done. The scandal of the enterprise has frequently generated is received, concem is sent to the system mainte- nance including the observance of the law in recent years."
+                },
+                {
+                    "idx": 18,
+                    "type": "text",
+                    "bbox": [
+                        45.0,
+                        1063.0,
+                        408.0,
+                        1081.0
+                    ],
+                    "text": "Enhancement of system of management"
+                },
+                {
+                    "idx": 19,
+                    "type": "text",
+                    "bbox": [
+                        46.65839767456055,
+                        1083.71728515625,
+                        593.580810546875,
+                        1261.2196044921875
+                    ],
+                    "text": "The committee that aimed at the decrease of a variety of business risks in an individual business talk was newly established. Moreover, the recognition of \"Privacy mark\" is received to manage customer and employee's individual information appropriately in 2001, and the activ- ity based on the protection of individual information policy is continued. It is .bAsia/Oceania in globalln addition, our technology, commodity power, and correspondence power were evaluating acquired."
+                },
+                {
+                    "idx": 20,
+                    "type": "image",
+                    "image_type": "bar chart",
+                    "bbox": [
+                        619.9644165039062,
+                        1042.3204345703125,
+                        968.9990234375,
+                        1294.0518798828125
+                    ],
+                    "text": "| Year | Value |\n|------|-------|\n| 1998 | 75    |\n| 1999 | 30    |\n| 2000 | 65    |\n| 2001 | 55    |\n| 2002 | 35    |\n| 2003 | 100   |\n| 2004 | 15    |",
+                    "caption": "image",
+                    "description": "The bar chart shows the values for different years from 1998 to 2004. The highest value is observed in 2003, while the lowest is in 2004.",
+                    "ocr_string": "\"8 80 70 : | | \u2018 | | L 1 1998 1999 2000 2001 2002 2003 2004",
+                    "image_path": "img/figures/0/figure-1-2.jpg",
+                    "image_base64": "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",
+                    "yolo_index": null
+                },
+                {
+                    "idx": 21,
+                    "type": "text",
+                    "bbox": [
+                        685.7853393554688,
+                        1314.4449462890625,
+                        904.2513427734375,
+                        1330.6175537109375
+                    ],
+                    "text": "Satisfaction rating to new product"
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "markdown": "\u00a9 unitED TRACTORS\nmember of ASTRA\n\n## PT UNITED TRACTORS Tbk DAN ENTITAS ANAK\n\n## PT UNITED TRACTORS Tbk AND SUBSIDIARIES\n\n### PERNYATAAN DIREKSI TENTANG TANGGUNG JAWAB TERHADAP LAPORAN KEUANGAN KONSOLIDASIAN INTERIM PT UNITED TRACTORS Tbk DAN ENTITAS ANAK (\u201cGRUP\u201d)\n**TANGGAL 31 MARET 2024 DAN 31 DESEMBER 2023**\n**SERTA PERIODE-PERIODE TIGA BULAN YANG BERAKHIR 31 MARET 2024 DAN 2023**\n\n### BOARD OF DIRECTORS\u2019 STATEMENT REGARDING THE RESPONSIBILITY FOR THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS OF PT UNITED TRACTORS Tbk AND SUBSIDIARIES (THE \u201cGROUP\u201d)\n**AS AT 31 MARCH 2024 AND 31 DECEMBER 2023**\n**AND FOR THE THREE-MONTH PERIODS ENDED 31 MARCH 2024 AND 2023**\n\n**Kami yang bertanda tangan di bawah ini:**\n\n1. **Nama:** FXL Kesuma\n   - **Alamat kantor:** Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910\n   - **Alamat rumah:** Jl. Wijaya Kusuma 49 Cilandak Jakarta Selatan\n   - **No. Telepon:** 021 \u2014 24579999\n   - **Jabatan:** Presiden Direktur\n\n2. **Nama:** Vilihati Surya\n   - **Alamat kantor:** Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910\n   - **Alamat rumah:** Jl. Janur Elok VII QF-7/11A Kelapa Gading Jakarta Utara\n   - **No. Telepon:** 021 \u2014 24579999\n   - **Jabatan:** Direktur\n\n**declare that:**\n\n1. **We are responsible for the preparation and presentation of the Group\u2019s interim consolidated financial statements;**\n2. **The Group's interim consolidated financial statements have been prepared and presented in accordance with the Indonesian Financial Accounting Standards;**\n3. **All information in the Group\u2019s interim consolidated financial statements has been disclosed in a complete and truthful manner;**\n4. **The Group\u2019s interim consolidated financial statements do not contain any incorrect information or material fact, nor do they omit information or material fact;**\n5. **We are responsible for Group's internal control system.**\n\n**Demikian pernyataan ini dibuat dengan sebenarnya.**\n\n**Thus this statement is made truthfully.**\n\n**Atas nama dan mewakili Direksi/For and on behalf of the Board of Directors**\n\n**JAKARTA**\n**29 April 2024**\n\n**FXL Kesuma**\n**Presiden Direktur/President Director**\n\n**Vilihati Surya**\n**Direktur/Director**\n\n**Moving as one**\n\n**PT UNITED TRACTORS Tbk**\n**JI. Raya Bekasi Km 22, Jakarta 13 910 - Indonesia**\n**T: +62 21 2457 9999**\n**F: +62 21 4600657**",
+            "text": "\u00a9 unitED TRACTORS\n member of ASTRA\n\nPT UNITED TRACTORS Tbk DAN ENTITAS ANAK\n\nPT UNITED TRACTORS Tbk AND SUBSIDIARIES\n\nPERNYATAAN DIREKSI TENTANG TANGGUNG JAWAB TERHADAP LAPORAN KEUANGAN KONSOLIDASIAN INTERIM PT UNITED TRACTORS Tbk DAN ENTITAS ANAK (\u201cGRUP\u201d) TANGGAL 31 MARET 2024 DAN 31 DESEMBER 2023 SERTA PERIODE-PERIODE TIGA BULAN YANG BERAKHIR 31 MARET 2024 DAN 2023\n\nBOARD OF DIRECTORS\u2019 STATEMENT REGARDING THE RESPONSIBILITY FOR THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS OF PT UNITED TRACTORS Tbk AND SUBSIDIARIES (THE \u201cGROUP\u201d) AS AT 31 MARCH 2024 AND 31 DECEMBER 2023 AND FOR THE THREE-MONTH PERIODS ENDED 31 MARCH 2024 AND 2023\n\nKami yang bertanda tangan di bawah ini: 1. Nama : FXL Kesuma Alamat kantor\n\n: Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910\n\nWe, the undersigned: 1. Name Office address\n\n: FXL Kesuma\n\n: Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910\n\nAlamat rumah\n\n: JI. Wijaya Kusuma 49 Cilandak Jakarta Selatan\n\nResidential address:\n\nJl. Wijaya Kusuma 49 Cilandak Jakarta Selatan\n\nNo. Telepon Jabatan\n\n: 021 -\u2014 24579999\n\n: Presiden Direktur\n\nTelephone No. Title\n\n021 - 24579999\n\n: President Director\n\n2. Nama Alamat kantor\n\n: Vilihati Surya\n\n: Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910\n\n2. Name Office address\n\n: Vilihati Surya\n\n: Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910\n\nAlamat rumah\n\nNo. Telepon Jabatan\n\n: Ji. Janur Elok VII QF-7/11A Kelapa Gading Jakarta Utara\n\n: 021 - 24579999 : Direktur\n\nResidential address: Jl. Janur Elok Vil QF-7/11A Kelapa Gading Jakarta Utara : 021 - 24579999 : Director\n\nTelephone No. Title\n menyatakan bahwa:\n declare that:\n\n1. Kami bertanggung jawab atas penyusunan dan penyajian laporan keuangan konsolidasian interim Grup;\n\n1. We are responsible for the preparation and presentation of the Group\u2019s interim consolidated financial statements;\n\n2. Laporan,keuangan konsolidasian interim Grup telah disusun dan disajikan sesuai dengan Standar Akuntansi Keuangan di Indonesia;\n\n2. The Group's interim consolidated financial statements have been prepared and presented in accordance with the Indonesian Financial Accounting Standards;\n\n3.\n a. Semua_ informasi dalam laporan keuangan konsolidasian interim Grup telah dimuat secara lengkap dan benar;\n\n3.\n a. All information in the Group\u2019s interim consolidated financial statements has been disclosed in a complete and truthful manner;\n b. Laporan keuangan konsolidasian interim Grup tidak mengandung informasi atau fakta material yang tidak benar, dan tidak menghilangkan informasi atau fakta material;\n b. The Group\u2019s_ interim consolidated _ financial statements do not contain any incorrect information or material fact, nor do they omit information or material fact;\n\n4. Kami bertanggung jawab atas sistem pengendalian internal dalam Grup.\n\n4. We are responsible for Group's intemal control system.\n\nDemikian pernyataan ini dibuat dengan sebenarnya.\n\nThus this statement is made truthfully.\n\nAtas nama dan mewakili Direksi/For and on behalf of the Board of Directors\n\nJAKARTA\n\nAdds 29 April 2024 | | EALX0725071\n\n-\n\nT\n\nE\n\nFXL Kesuma Presiden Direktur/President Director\n af Vilihati Surya Direktur/Director\n\nMoving as\n\nPT UNITED TRACTORS Tbk\n\nJI. Raya Bekasi Km 22, Jakarta 13 910 - Indonesia\n\nT: +62 21 2457 9999\n\nF: +62 21 4600657\n\n",
+            "elements": [
+                {
+                    "idx": 0,
+                    "type": "text",
+                    "bbox": [
+                        123.20153045654297,
+                        103.2444839477539,
+                        437.2398681640625,
+                        143.6455841064453
+                    ],
+                    "text": "\u00a9 unitED TRACTORS"
+                },
+                {
+                    "idx": 1,
+                    "type": "text",
+                    "bbox": [
+                        274.4678955078125,
+                        143.39134216308594,
+                        436.3692932128906,
+                        162.4634246826172
+                    ],
+                    "text": "member of ASTRA"
+                },
+                {
+                    "idx": 2,
+                    "type": "text",
+                    "bbox": [
+                        185.89498901367188,
+                        192.81393432617188,
+                        524.8773803710938,
+                        208.9866485595703
+                    ],
+                    "text": "PT UNITED TRACTORS Tbk DAN ENTITAS ANAK"
+                },
+                {
+                    "idx": 3,
+                    "type": "text",
+                    "bbox": [
+                        610.0,
+                        193.88888888888889,
+                        943.8888888888889,
+                        205.55555555555554
+                    ],
+                    "text": "PT UNITED TRACTORS Tbk AND SUBSIDIARIES"
+                },
+                {
+                    "idx": 4,
+                    "type": "text",
+                    "bbox": [
+                        173.88888888888889,
+                        227.77777777777777,
+                        535.0,
+                        373.3333333333333
+                    ],
+                    "text": "PERNYATAAN DIREKSI TENTANG TANGGUNG JAWAB TERHADAP LAPORAN KEUANGAN KONSOLIDASIAN INTERIM PT UNITED TRACTORS Tbk DAN ENTITAS ANAK (\u201cGRUP\u201d) TANGGAL 31 MARET 2024 DAN 31 DESEMBER 2023 SERTA PERIODE-PERIODE TIGA BULAN YANG BERAKHIR 31 MARET 2024 DAN 2023"
+                },
+                {
+                    "idx": 5,
+                    "type": "text",
+                    "bbox": [
+                        610.2112426757812,
+                        225.11016845703125,
+                        960.3746337890625,
+                        376.2886047363281
+                    ],
+                    "text": "BOARD OF DIRECTORS\u2019 STATEMENT REGARDING THE RESPONSIBILITY FOR THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS OF PT UNITED TRACTORS Tbk AND SUBSIDIARIES (THE \u201cGROUP\u201d) AS AT 31 MARCH 2024 AND 31 DECEMBER 2023 AND FOR THE THREE-MONTH PERIODS ENDED 31 MARCH 2024 AND 2023"
+                },
+                {
+                    "idx": 6,
+                    "type": "text",
+                    "bbox": [
+                        160.55555555555554,
+                        396.1111111111111,
+                        421.1111111111111,
+                        441.66666666666663
+                    ],
+                    "text": "Kami yang bertanda tangan di bawah ini: 1. Nama : FXL Kesuma Alamat kantor"
+                },
+                {
+                    "idx": 7,
+                    "type": "text",
+                    "bbox": [
+                        300.9926452636719,
+                        429.67535400390625,
+                        472.0904846191406,
+                        461.02587890625
+                    ],
+                    "text": ": Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910"
+                },
+                {
+                    "idx": 8,
+                    "type": "text",
+                    "bbox": [
+                        584.4444444444445,
+                        396.1111111111111,
+                        720.5555555555555,
+                        441.1111111111111
+                    ],
+                    "text": "We, the undersigned: 1. Name Office address"
+                },
+                {
+                    "idx": 9,
+                    "type": "text",
+                    "bbox": [
+                        749.339111328125,
+                        412.6901550292969,
+                        856.9524536132812,
+                        426.4012451171875
+                    ],
+                    "text": ": FXL Kesuma"
+                },
+                {
+                    "idx": 10,
+                    "type": "text",
+                    "bbox": [
+                        742.8319091796875,
+                        429.2381896972656,
+                        930.124267578125,
+                        460.32763671875
+                    ],
+                    "text": ": Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910"
+                },
+                {
+                    "idx": 11,
+                    "type": "text",
+                    "bbox": [
+                        181.66666666666666,
+                        463.88888888888886,
+                        271.1111111111111,
+                        475.0
+                    ],
+                    "text": "Alamat rumah"
+                },
+                {
+                    "idx": 12,
+                    "type": "text",
+                    "bbox": [
+                        301.3067932128906,
+                        463.8922424316406,
+                        460.4070129394531,
+                        512.7141723632812
+                    ],
+                    "text": ": JI. Wijaya Kusuma 49 Cilandak Jakarta Selatan"
+                },
+                {
+                    "idx": 13,
+                    "type": "text",
+                    "bbox": [
+                        605.5555555555555,
+                        463.3333333333333,
+                        754.4444444444445,
+                        474.44444444444446
+                    ],
+                    "text": "Residential address:"
+                },
+                {
+                    "idx": 14,
+                    "type": "text",
+                    "bbox": [
+                        750.9575805664062,
+                        462.86871337890625,
+                        911.3543090820312,
+                        510.47357177734375
+                    ],
+                    "text": "Jl. Wijaya Kusuma 49 Cilandak Jakarta Selatan"
+                },
+                {
+                    "idx": 15,
+                    "type": "text",
+                    "bbox": [
+                        182.77822875976562,
+                        513.60107421875,
+                        259.7342834472656,
+                        544.5042724609375
+                    ],
+                    "text": "No. Telepon Jabatan"
+                },
+                {
+                    "idx": 16,
+                    "type": "text",
+                    "bbox": [
+                        304.6273498535156,
+                        514.16552734375,
+                        427.8807067871094,
+                        526.851318359375
+                    ],
+                    "text": ": 021 -\u2014 24579999"
+                },
+                {
+                    "idx": 17,
+                    "type": "text",
+                    "bbox": [
+                        302.95001220703125,
+                        530.9664916992188,
+                        433.9840393066406,
+                        544.2173461914062
+                    ],
+                    "text": ": Presiden Direktur"
+                },
+                {
+                    "idx": 18,
+                    "type": "text",
+                    "bbox": [
+                        599.4444444444445,
+                        513.3333333333334,
+                        698.8888888888889,
+                        546.6666666666666
+                    ],
+                    "text": "Telephone No. Title"
+                },
+                {
+                    "idx": 20,
+                    "type": "text",
+                    "bbox": [
+                        771.6666666666666,
+                        512.7777777777777,
+                        876.1111111111111,
+                        524.4444444444445
+                    ],
+                    "text": "021 - 24579999"
+                },
+                {
+                    "idx": 21,
+                    "type": "text",
+                    "bbox": [
+                        749.4873046875,
+                        530.5374145507812,
+                        893.8585205078125,
+                        543.9729614257812
+                    ],
+                    "text": ": President Director"
+                },
+                {
+                    "idx": 22,
+                    "type": "text",
+                    "bbox": [
+                        160.0,
+                        563.8888888888889,
+                        271.6666666666667,
+                        592.2222222222222
+                    ],
+                    "text": "2. Nama Alamat kantor"
+                },
+                {
+                    "idx": 23,
+                    "type": "text",
+                    "bbox": [
+                        305.0,
+                        563.8888888888889,
+                        403.88888888888886,
+                        578.3333333333334
+                    ],
+                    "text": ": Vilihati Surya"
+                },
+                {
+                    "idx": 24,
+                    "type": "text",
+                    "bbox": [
+                        299.42584228515625,
+                        579.0619506835938,
+                        471.9221496582031,
+                        611.3887939453125
+                    ],
+                    "text": ": Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910"
+                },
+                {
+                    "idx": 25,
+                    "type": "text",
+                    "bbox": [
+                        583.8888888888889,
+                        563.3333333333334,
+                        698.8888888888889,
+                        591.1111111111111
+                    ],
+                    "text": "2. Name Office address"
+                },
+                {
+                    "idx": 26,
+                    "type": "text",
+                    "bbox": [
+                        745.486572265625,
+                        562.5160522460938,
+                        858.0880737304688,
+                        576.7201538085938
+                    ],
+                    "text": ": Vilihati Surya"
+                },
+                {
+                    "idx": 27,
+                    "type": "text",
+                    "bbox": [
+                        747.322509765625,
+                        578.4606323242188,
+                        924.4118041992188,
+                        611.0517578125
+                    ],
+                    "text": ": Jl. Raya Bekasi Km 22 Cakung, Jakarta 13910"
+                },
+                {
+                    "idx": 28,
+                    "type": "text",
+                    "bbox": [
+                        181.66666666666666,
+                        613.8888888888889,
+                        271.1111111111111,
+                        625.0
+                    ],
+                    "text": "Alamat rumah"
+                },
+                {
+                    "idx": 29,
+                    "type": "text",
+                    "bbox": [
+                        181.66666666666666,
+                        664.4444444444445,
+                        260.0,
+                        697.7777777777777
+                    ],
+                    "text": "No. Telepon Jabatan"
+                },
+                {
+                    "idx": 30,
+                    "type": "text",
+                    "bbox": [
+                        302.6797180175781,
+                        613.276123046875,
+                        492.7884216308594,
+                        669.1063842773438
+                    ],
+                    "text": ": Ji. Janur Elok VII QF-7/11A Kelapa Gading Jakarta Utara"
+                },
+                {
+                    "idx": 31,
+                    "type": "text",
+                    "bbox": [
+                        305.0,
+                        663.8888888888889,
+                        424.44444444444446,
+                        692.2222222222222
+                    ],
+                    "text": ": 021 - 24579999 : Direktur"
+                },
+                {
+                    "idx": 32,
+                    "type": "text",
+                    "bbox": [
+                        605.5555555555555,
+                        612.7777777777777,
+                        946.6666666666666,
+                        691.6666666666666
+                    ],
+                    "text": "Residential address: Jl. Janur Elok Vil QF-7/11A Kelapa Gading Jakarta Utara : 021 - 24579999 : Director"
+                },
+                {
+                    "idx": 33,
+                    "type": "text",
+                    "bbox": [
+                        599.4444444444445,
+                        663.8888888888889,
+                        698.8888888888889,
+                        697.2222222222222
+                    ],
+                    "text": "Telephone No. Title"
+                },
+                {
+                    "idx": 34,
+                    "type": "text",
+                    "bbox": [
+                        160.0270233154297,
+                        713.58837890625,
+                        290.52618408203125,
+                        728.0082397460938
+                    ],
+                    "text": "menyatakan bahwa:"
+                },
+                {
+                    "idx": 35,
+                    "type": "text",
+                    "bbox": [
+                        581.4675903320312,
+                        712.822509765625,
+                        665.1129150390625,
+                        727.8136596679688
+                    ],
+                    "text": "declare that:"
+                },
+                {
+                    "idx": 36,
+                    "type": "text",
+                    "bbox": [
+                        159.1975555419922,
+                        730.421875,
+                        552.4513549804688,
+                        761.4551391601562
+                    ],
+                    "text": "1. Kami bertanggung jawab atas penyusunan dan penyajian laporan keuangan konsolidasian interim Grup;"
+                },
+                {
+                    "idx": 37,
+                    "type": "text",
+                    "bbox": [
+                        581.8145751953125,
+                        728.7503051757812,
+                        970.489990234375,
+                        761.2630615234375
+                    ],
+                    "text": "1. We are responsible for the preparation and presentation of the Group\u2019s interim consolidated financial statements;"
+                },
+                {
+                    "idx": 38,
+                    "type": "text",
+                    "bbox": [
+                        161.84848022460938,
+                        764.3267211914062,
+                        555.6988525390625,
+                        811.0646362304688
+                    ],
+                    "text": "2. Laporan ,keuangan konsolidasian interim Grup telah disusun dan disajikan sesuai dengan Standar Akuntansi Keuangan di Indonesia;"
+                },
+                {
+                    "idx": 39,
+                    "type": "text",
+                    "bbox": [
+                        586.3872680664062,
+                        763.0675659179688,
+                        976.327880859375,
+                        810.8184204101562
+                    ],
+                    "text": "2. The Group's interim consolidated financial statements have been prepared and presented in accordance with the Indonesian Financial Accounting Standards;"
+                },
+                {
+                    "idx": 40,
+                    "type": "text",
+                    "bbox": [
+                        159.44444444444443,
+                        814.4444444444445,
+                        170.0,
+                        826.1111111111111
+                    ],
+                    "text": "3."
+                },
+                {
+                    "idx": 41,
+                    "type": "text",
+                    "bbox": [
+                        169.47406005859375,
+                        814.4014892578125,
+                        559.0280151367188,
+                        862.0015869140625
+                    ],
+                    "text": "a. Semua_ informasi dalam laporan keuangan konsolidasian interim Grup telah dimuat secara lengkap dan benar;"
+                },
+                {
+                    "idx": 42,
+                    "type": "text",
+                    "bbox": [
+                        582.7777777777777,
+                        814.4444444444445,
+                        592.7777777777777,
+                        825.5555555555555
+                    ],
+                    "text": "3."
+                },
+                {
+                    "idx": 43,
+                    "type": "text",
+                    "bbox": [
+                        597.0193481445312,
+                        812.9584350585938,
+                        988.1951904296875,
+                        861.0343627929688
+                    ],
+                    "text": "a. All information in the Group\u2019s interim consolidated financial statements has been disclosed in a complete and truthful manner;"
+                },
+                {
+                    "idx": 44,
+                    "type": "text",
+                    "bbox": [
+                        178.4241943359375,
+                        864.4234008789062,
+                        557.21044921875,
+                        927.6382446289062
+                    ],
+                    "text": "b. Laporan keuangan konsolidasian interim Grup tidak mengandung informasi atau fakta material yang tidak benar, dan tidak menghilangkan informasi atau fakta material;"
+                },
+                {
+                    "idx": 45,
+                    "type": "text",
+                    "bbox": [
+                        605.2156372070312,
+                        864.2596435546875,
+                        980.4068603515625,
+                        927.4490356445312
+                    ],
+                    "text": "b. The Group\u2019s_ interim consolidated _ financial statements do not contain any incorrect information or material fact, nor do they omit information or material fact;"
+                },
+                {
+                    "idx": 46,
+                    "type": "text",
+                    "bbox": [
+                        161.94192504882812,
+                        932.0113525390625,
+                        562.8440551757812,
+                        962.0319213867188
+                    ],
+                    "text": "4. Kami bertanggung jawab atas sistem pengendalian internal dalam Grup."
+                },
+                {
+                    "idx": 47,
+                    "type": "text",
+                    "bbox": [
+                        582.614013671875,
+                        928.1567993164062,
+                        960.91357421875,
+                        961.203857421875
+                    ],
+                    "text": "4. We are responsible for Group's intemal control system."
+                },
+                {
+                    "idx": 48,
+                    "type": "text",
+                    "bbox": [
+                        158.44873046875,
+                        981.2561645507812,
+                        492.60650634765625,
+                        995.5361328125
+                    ],
+                    "text": "Demikian pernyataan ini dibuat dengan sebenarnya."
+                },
+                {
+                    "idx": 49,
+                    "type": "text",
+                    "bbox": [
+                        587.163818359375,
+                        979.828125,
+                        829.5797119140625,
+                        995.4136962890625
+                    ],
+                    "text": "Thus this statement is made truthfully."
+                },
+                {
+                    "idx": 50,
+                    "type": "text",
+                    "bbox": [
+                        341.4390869140625,
+                        1031.3424072265625,
+                        831.479736328125,
+                        1045.6319580078125
+                    ],
+                    "text": "Atas nama dan mewakili Direksi/For and on behalf of the Board of Directors"
+                },
+                {
+                    "idx": 51,
+                    "type": "text",
+                    "bbox": [
+                        549.8052978515625,
+                        1081.0115966796875,
+                        618.9684448242188,
+                        1095.6065673828125
+                    ],
+                    "text": "JAKARTA"
+                },
+                {
+                    "idx": 52,
+                    "type": "text",
+                    "bbox": [
+                        325.55555555555554,
+                        1110.0,
+                        627.7777777777777,
+                        1245.0
+                    ],
+                    "text": "Adds 29 April 2024 | | EALX0725071"
+                },
+                {
+                    "idx": 53,
+                    "type": "image",
+                    "image_type": "signature",
+                    "bbox": [
+                        327.9350280761719,
+                        1137.078369140625,
+                        499.1833190917969,
+                        1247.7659912109375
+                    ],
+                    "text": "-",
+                    "caption": "Signature",
+                    "description": "This is a signature written in blue ink.",
+                    "ocr_string": "",
+                    "image_path": "img/figures/1/figure-1-1.jpg",
+                    "image_base64": "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",
+                    "yolo_index": null
+                },
+                {
+                    "idx": 55,
+                    "type": "text",
+                    "bbox": [
+                        590.5555555555555,
+                        1208.888888888889,
+                        599.4444444444445,
+                        1219.4444444444443
+                    ],
+                    "text": "T"
+                },
+                {
+                    "idx": 57,
+                    "type": "text",
+                    "bbox": [
+                        628.8888888888889,
+                        1209.4444444444443,
+                        636.1111111111111,
+                        1220.0
+                    ],
+                    "text": "E"
+                },
+                {
+                    "idx": 59,
+                    "type": "text",
+                    "bbox": [
+                        246.83775329589844,
+                        1260.073974609375,
+                        498.9322204589844,
+                        1292.2392578125
+                    ],
+                    "text": "FXL Kesuma Presiden Direktur/President Director"
+                },
+                {
+                    "idx": 60,
+                    "type": "text",
+                    "bbox": [
+                        701.5369873046875,
+                        1255.5142822265625,
+                        826.6866455078125,
+                        1290.796630859375
+                    ],
+                    "text": "af Vilihati Surya Direktur/Director"
+                },
+                {
+                    "idx": 61,
+                    "type": "text",
+                    "bbox": [
+                        765.0,
+                        1305.5555555555554,
+                        898.3333333333333,
+                        1333.888888888889
+                    ],
+                    "text": "Moving as"
+                },
+                {
+                    "idx": 62,
+                    "type": "text",
+                    "bbox": [
+                        145.5870819091797,
+                        1393.816162109375,
+                        318.3722839355469,
+                        1406.1453857421875
+                    ],
+                    "text": "PT UNITED TRACTORS Tbk"
+                },
+                {
+                    "idx": 64,
+                    "type": "text",
+                    "bbox": [
+                        360.705078125,
+                        1392.591064453125,
+                        639.9413452148438,
+                        1406.3663330078125
+                    ],
+                    "text": "JI. Raya Bekasi Km 22, Jakarta 13 910 - Indonesia"
+                },
+                {
+                    "idx": 66,
+                    "type": "text",
+                    "bbox": [
+                        688.3333333333334,
+                        1395.5555555555554,
+                        806.1111111111111,
+                        1403.888888888889
+                    ],
+                    "text": "T: +62 21 2457 9999"
+                },
+                {
+                    "idx": 68,
+                    "type": "text",
+                    "bbox": [
+                        860.3233642578125,
+                        1393.666748046875,
+                        969.183837890625,
+                        1406.195068359375
+                    ],
+                    "text": "F: +62 21 4600657"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "markdown": "# PT UNITED TRACTORS Tbk DAN ENTITAS ANAK/AND SUBSIDIARIES\n\n## Lampiran 1/1 Schedule\n\n### LAPORAN POSISI KEUANGAN KONSOLIDASIAN INTERIM 31 MARET 2024 DAN 31 DESEMBER 2023\n(Dinyatakan dalam jutaan Rupiah, kecuali dinyatakan lain)\n\n|  |  |\n| --- | --- |\n|  | (Expressed in millions of Rupiah, unless otherwise stated) |\n\n| Aset |  | Catatan/ |  |  |\n| --- | --- | --- | --- | --- |\n| 31/03/2024 | Notes | 31/12/2023 | Assets |\n| Aset lancar |  |  |  | Current assets |\n| Kas dan setara kas | 22,246,140 |  | 18,596,609 | Cash and cash equivalents |\n| Piutang usaha |  |  |  | Trade receivables |\n| - Pihak ketiga | 18,435,677 |  | 18,953,089 | Third parties - |\n| - Pihak berelasi | 981,633 | 4,35\u00a2 | 1,321,493 | Related parties - |\n| Piutang non-usaha |  |  |  | Non-trade receivables |\n| - Pihak ketiga | 773,229 |  | 833,144 | Third parties - |\n| - Pihak berelasi | 1,342,150 | 35c | 1,207,575 | Related parties - |\n| Persediaan | 17,220,278 |  | 17,184,208 | Inventories |\n| Proyek dalam pelaksanaan |  |  |  | Project under construction |\n| - Pihak ketiga | 114,648 |  | 111,259 | Third parties - |\n| Pajak dibayar dimuka |  |  |  | Prepaid taxes |\n| - Pajak penghasilan badan | 1,100,303 | 16a | 910,334 | Corporate income taxes - |\n| - Pajak lain-lain | 1,589,010 | 16a | 2,196,826 | Other taxes - |\n| Uang muka dan biaya dibayar |  |  |  |  |\n| dimuka | 1,247,514 |  | 1,103,109 | Advances and prepayments |\n| Aset lancar lain-lain | 256,470 |  | 249,459 | Other current assets |\n|  |  |  |  |  |\n| 65,307,052 |  | 62,667,105 |  |\n\n| Aset tidak lancar |  |  |  | Non-current assets |\n| Kas dan deposito berjangka yang dibatasi penggunaannya Piutang usaha 621,233 561,219 Restricted cash and time deposits Trade receivables | | | | |\n| - Pihak ketiga | 351,299 |  | 107,565 | Third parties - |\n| - Pihak berelasi | 15,841 | 4,35c | 16,514 | Related parties - |\n| Piutang non-usaha Non-trade receivables | | | | |\n| - Pihak ketiga | 306,151 |  | 311,702 | Third parties - |\n| - Pihak berelasi | 3,505,595 | 35\u00a2 | 2,867,712 | Related parties - |\n|  |  |  |  |  |\n| Persediaan | 86,947 |  | 82,497 | Inventories |\n| Pajak dibayar dimuka |  |  |  | Prepaid taxes |\n| - Pajak penghasilan badan | 23,164 | 16a | 75,699 | Corporate income tax - |\n| - Pajak lain-lain | 2,098,755 | 16a | 1,731,673 | Other taxes - |\n| Uang muka dan biaya dibayar | | | | |\n| dimuka | 389,139 | N | 1,298,672 | Advances and prepayments |\n| Investasi pada entitas asosiasi Investments in associates | | | | |\n| dan ventura bersama | 17,551,248 | @o | 14,853,244 | and joint ventures |\n| Investasi jangka panjang | 1,268,213 |  | 1,243,018 | Long-term investments |\n| Aset tetap | 37,512,715 | \u00a9 | 36,001,559 | Fixed assets |\n| Properti | 17,698,024 | 10a | 17,845,848 |  |\n| pertambangan |  |  |  | Mining properties |\n| Properti investasi | 228,097 |  | 228,097 | Investment properties |\n| Beban eksplorasi dan |  |  |  | Deferred exploration and |\n| pengembangan tangguhan 2,513,388 10b 2,374,321 development expenditures | | | | |\n| Aset tambang berproduksi | 4,496,914 | 10c | 4,488,727 | Production mining assets |\n| Beban tangguhan | 1,413,176 |  | 1,448,506 | Deferred charges |\n| Aset pajak tangguhan | 3,697,201 | 16d | 3,537,279 | Deferred tax assets |\n| Goodwill | 2,342,623 | 12 | \u2014\\_\\_\\_\u2014 2,287,291 | Goodwill |\n|  |  |  |  |  |\n| 96,119,723 |  | 91,361,143 |  |\n\n| Jumlah aset | 161,426,775 |  | 154,028,248 | Total assets |\n\n**Catatan atas laporan keuangan konsolidasian merupakan bagian yang tidak terpisahkan dari laporan keuangan konsolidasian.**\n\nThe accompanying notes form an integral part of these consolidated financial statements.",
+            "text": "PT UNITED TRACTORS Tbk DAN ENTITAS ANAK/AND SUBSIDIARIES\n\nLampiran 1/1 Schedule\n\n|  |  |\n| --- | --- |\n| (Dinyatakan dalam jutaan Rupiah, | (Expressed in millions of Rupiah, |\n| kecuali dinyatakan lain) | unless otherwise stated) |\n\n| Aset |  | Catatan/ |  |  |\n| --- | --- | --- | --- | --- |\n| 31/03/2024 | Notes | 31/12/2023 | Assets |\n| Aset lancar |  |  |  | Current assets |\n| Kas dan setara kas | 22,246,140 |  | 18,596,609 | Cash and cash equivalents |\n| Piutang usaha |  |  |  | Trade receivables |\n| - Pihak ketiga | 18,435,677 |  | 18,953,089 | Third parties - |\n| - Pihak berelasi | 981,633 | 4,35\u00a2 | 1,321,493 | Related parties - |\n| Piutang non-usaha |  |  |  | Non-trade receivables |\n| - Pihak ketiga | 773,229 |  | 833,144 | Third parties - |\n| - Pihak berelasi | 1,342,150 | 35c | 1,207,575 | Related parties - |\n| Persediaan | 17,220,278 |  | 17,184,208 | Inventories |\n| Proyek dalam pelaksanaan |  |  |  | Project under construction |\n| - Pihak ketiga | 114,648 |  | 111,259 | Third parties - |\n| Pajak dibayar dimuka |  |  |  | Prepaid taxes |\n| - Pajak penghasilan badan | 1,100,303 | 16a | 910,334 | Corporate income taxes - |\n| - Pajak lain-lain | 1,589,010 | 16a | 2,196,826 | Other taxes - |\n| Uang muka dan biaya dibayar |  |  |  |  |\n| dimuka | 1,247,514 |  | 1,103,109 | Advances and prepayments |\n| Aset lancar lain-lain | 256.470 |  | 249,459 | Other current assets |\n| 07,052 |  | 62,667,105 |  |\n| Aset tidak lancar |  |  |  | Non-current assets |\n| Kas dan deposito berjangka yang dibatasi penggunaannya Piutang usaha 621,233 561,219 Restricted cash and time deposits Trade receivables | | | | |\n| - Pihak ketiga | 351,299 |  | 107,565 | Third parties - |\n| - Pihak berelasi | 15,841 | 4,35c | 16,514 | Related parties - |\n| Piutang non-usaha Non-trade receivables | | | | |\n| - Pihak ketiga | 306,151 |  | 311,702 | Third parties - |\n| - Pihak berelasi | 3,505,595 | 35\u00a2 | 2,867,712 | Related parties - |\n|  |  |  |  |  |\n| Persediaan | 86,947 |  | 82,497 | Inventories |\n| Pajak dibayar dimuka |  |  |  | Prepaid taxes |\n| - Pajak penghasilan badan | 23,164 | 16a | 75,699 | Corporate income tax - |\n| - Pajak lain-lain | 2,098,755 | 16a | 1,731,673 | Other taxes - |\n| Uang muka dan biaya dibayar | | | | |\n| dimuka | 389,139 | N | 1,298,672 | Advances and prepayments |\n| Investasi pada entitas asosiasi Investments in associates | | | | |\n| dan ventura bersama | 17,551,248 | @o | 14,853,244 | and joint ventures |\n| Investasi jangka panjang | 1,268,213 |  | 1,243,018 | Long-term investments |\n| Aset tetap | 37,512,715 | \u00a9 | 36,001,559 | Fixed assets |\n| Properti | 17,698,024 | 10a | 17,845,848 |  |\n| pertambangan |  |  |  | Mining properties |\n| Properti investasi | 228,097 |  | 228,097 | Investment properties |\n| Beban eksplorasi dan |  |  |  | Deferred exploration and |\n| pengembangan tangguhan 2,513,388 10b 2,374,321 development expenditures | | | | |\n| Aset tambang berproduksi | 4,496,914 | 10c | 4,488,727 | Production mining assets |\n| Beban tangguhan | 1,413,176 |  | 1,448,506 | Deferred charges |\n| Aset pajak tangguhan | 3,697,201 | 16d | 3,537,279 | Deferred tax assets |\n| Goodwill | 2,342,623 | 12 | \u2014\\_\\_\\_\u2014 2,287,291 | Goodwill |\n| 96,119.723 |  | 91,361,143 |  |\n| Jumlah aset | 161,426,775 |  | 154,028,248 | Total assets |\n\nCatatan atas laporan keuangan konsolidasian merupakan bagian yang tidak terpisahkan dari laporan keuangan konsolidasian.\n\nThe accompanying notes form an integral part of these consolidated financial statements.\n\n",
+            "elements": [
+                {
+                    "idx": 0,
+                    "type": "text",
+                    "bbox": [
+                        426.51416015625,
+                        88.13249206542969,
+                        733.3726806640625,
+                        121.73686218261719
+                    ],
+                    "text": "PT UNITED TRACTORS Tbk DAN ENTITAS ANAK/AND SUBSIDIARIES"
+                },
+                {
+                    "idx": 1,
+                    "type": "text",
+                    "bbox": [
+                        492.7514343261719,
+                        141.35665893554688,
+                        668.088623046875,
+                        157.4621124267578
+                    ],
+                    "text": "Lampiran 1/1 Schedule"
+                },
+                {
+                    "idx": 2,
+                    "type": "table",
+                    "bbox": [
+                        173.27777099609375,
+                        171.93592834472656,
+                        987.5010986328125,
+                        265.5113830566406
+                    ],
+                    "text": "|  |  |\n| --- | --- |\n| (Dinyatakan dalam jutaan Rupiah, | (Expressed in millions of Rupiah, |\n| kecuali dinyatakan lain) | unless otherwise stated) |"
+                },
+                {
+                    "idx": 3,
+                    "type": "table",
+                    "bbox": [
+                        168.83729553222656,
+                        295.654541015625,
+                        1000.1693725585938,
+                        1187.8583984375
+                    ],
+                    "text": "| Aset |  | Catatan/ |  |  |\n| --- | --- | --- | --- | --- |\n| 31/03/2024 | Notes | 31/12/2023 | Assets |\n| Aset lancar |  |  |  | Current assets |\n| Kas dan setara kas | 22,246,140 |  | 18,596,609 | Cash and cash equivalents |\n| Piutang usaha |  |  |  | Trade receivables |\n| - Pihak ketiga | 18,435,677 |  | 18,953,089 | Third parties - |\n| - Pihak berelasi | 981,633 | 4,35\u00a2 | 1,321,493 | Related parties - |\n| Piutang non-usaha |  |  |  | Non-trade receivables |\n| - Pihak ketiga | 773,229 |  | 833,144 | Third parties - |\n| - Pihak berelasi | 1,342,150 | 35c | 1,207,575 | Related parties - |\n| Persediaan | 17,220,278 |  | 17,184,208 | Inventories |\n| Proyek dalam pelaksanaan |  |  |  | Project under construction |\n| - Pihak ketiga | 114,648 |  | 111,259 | Third parties - |\n| Pajak dibayar dimuka |  |  |  | Prepaid taxes |\n| - Pajak penghasilan badan | 1,100,303 | 16a | 910,334 | Corporate income taxes - |\n| - Pajak lain-lain | 1,589,010 | 16a | 2,196,826 | Other taxes - |\n| Uang muka dan biaya dibayar |  |  |  |  |\n| dimuka | 1,247,514 |  | 1,103,109 | Advances and prepayments |\n| Aset lancar lain-lain | 256.470 |  | 249,459 | Other current assets |\n| 07,052 |  | 62,667,105 |  |\n| Aset tidak lancar |  |  |  | Non-current assets |\n| Kas dan deposito berjangka yang dibatasi penggunaannya Piutang usaha 621,233 561,219 Restricted cash and time deposits Trade receivables | | | | |\n| - Pihak ketiga | 351,299 |  | 107,565 | Third parties - |\n| - Pihak berelasi | 15,841 | 4,35c | 16,514 | Related parties - |\n| Piutang non-usaha Non-trade receivables | | | | |\n| - Pihak ketiga | 306,151 |  | 311,702 | Third parties - |\n| - Pihak berelasi | 3,505,595 | 35\u00a2 | 2,867,712 | Related parties - |\n|  |  |  |  |  |\n| Persediaan | 86,947 |  | 82,497 | Inventories |\n| Pajak dibayar dimuka |  |  |  | Prepaid taxes |\n| - Pajak penghasilan badan | 23,164 | 16a | 75,699 | Corporate income tax - |\n| - Pajak lain-lain | 2,098,755 | 16a | 1,731,673 | Other taxes - |\n| Uang muka dan biaya dibayar | | | | |\n| dimuka | 389,139 | N | 1,298,672 | Advances and prepayments |\n| Investasi pada entitas asosiasi Investments in associates | | | | |\n| dan ventura bersama | 17,551,248 | @o | 14,853,244 | and joint ventures |\n| Investasi jangka panjang | 1,268,213 |  | 1,243,018 | Long-term investments |\n| Aset tetap | 37,512,715 | \u00a9 | 36,001,559 | Fixed assets |\n| Properti | 17,698,024 | 10a | 17,845,848 |  |\n| pertambangan |  |  |  | Mining properties |\n| Properti investasi | 228,097 |  | 228,097 | Investment properties |\n| Beban eksplorasi dan |  |  |  | Deferred exploration and |\n| pengembangan tangguhan 2,513,388 10b 2,374,321 development expenditures | | | | |\n| Aset tambang berproduksi | 4,496,914 | 10c | 4,488,727 | Production mining assets |\n| Beban tangguhan | 1,413,176 |  | 1,448,506 | Deferred charges |\n| Aset pajak tangguhan | 3,697,201 | 16d | 3,537,279 | Deferred tax assets |\n| Goodwill | 2,342,623 | 12 | \u2014\\_\\_\\_\u2014 2,287,291 | Goodwill |\n| 96,119.723 |  | 91,361,143 |  |\n| Jumlah aset | 161,426,775 |  | 154,028,248 | Total assets |"
+                },
+                {
+                    "idx": 4,
+                    "type": "text",
+                    "bbox": [
+                        208.41537475585938,
+                        1323.0283203125,
+                        556.1105346679688,
+                        1348.7740478515625
+                    ],
+                    "text": "Catatan atas laporan keuangan konsolidasian merupakan bagian yang tidak terpisahkan dari laporan keuangan konsolidasian."
+                },
+                {
+                    "idx": 5,
+                    "type": "text",
+                    "bbox": [
+                        660.7589111328125,
+                        1323.3916015625,
+                        909.094482421875,
+                        1348.7781982421875
+                    ],
+                    "text": "The accompanying notes form an integral part of these consolidated financial statements."
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "markdown": "# Sales Statistics\n\n## Larana, Inc. | 2024\n\nThis section provides an overview of key sales metrics for the current period. Data is compiled from all available sources to give a comprehensive view of performance and trends.\n\n### This Month's Most Sold Product\n\n| Week | Shirt | Blazer | Dress |\n|------|-------|--------|--------|\n| 1    | 5     | 14     | 9      |\n| 2    | 7     | 18     | 16     |\n| 3    | 8     | 13     | 15     |\n| 4    | 12    | 18     | 8      |\n\n### Sales Statistics\n\nSummary statistics highlighting the performance of individual product categories. Percentages represent key performance indicators relative to targets or previous periods.\n\n| Category | Percentage |\n|----------|------------|\n| Shirt    | 47%        |\n| Blazer   | 69%        |\n| Dress    | 80%        |\n\n### This Month's Sales Statistics\n\n| Item | Red Line | Blue Line |\n|------|----------|-----------|\n| Item 1 | 5        | 0         |\n| Item 2 | 35       | 25        |\n| Item 3 | 40       | 15        |\n| Item 4 | 10       | 30        |\n\nDetailed breakdown of the best-selling items this month. Analyze performance by week to identify patterns and popular product categories.\n\nVisual representation of sales trends over the month. Compare different items or categories to see how performance fluctuates across the weeks.",
+            "text": "SALES STATISTICS\n\nLARANA, INC. | 2024\n\nThis section provides an overview of key sales metrics for the current period. Data is compiled from all available sources to give a comprehensive view of performance and trends.\n\nTHIS MONTH'S MOST SOLD PRODUCT.\n\nSALES STATISTICS\n\n| Week | Shirt | Blazer | Dress |\n|------|-------|--------|--------|\n| 1    | 5     | 14     | 9      |\n| 2    | 7     | 18     | 16     |\n| 3    | 8     | 13     | 15     |\n| 4    | 12    | 18     | 8      |\n\nSummary statistics highlighting the performance of individual product categories. Percentages represent key performance indicators relative to targets or previous periods.\n\n| Category | Percentage |\n|----------|------------|\n| Shirt    | 47%        |\n| Blazer   | 69%        |\n| Dress    | 80%        |\n\nTHIS MONTH'S SALES STATISTICS\n\n| Item | Red Line | Blue Line |\n|------|----------|-----------|\n| Item 1 | 5        | 0         |\n| Item 2 | 35       | 25        |\n| Item 3 | 40       | 15        |\n| Item 4 | 10       | 30        |\n\nDetailed breakdown of the best-selling items this month. Analyze performance by week to identify patterns and popular product categories.\n\nVisual representation of sales trends over the month. Compare different items or categories to see how performance fluctuates across the weeks.\n\n",
+            "elements": [
+                {
+                    "idx": 0,
+                    "type": "text",
+                    "bbox": [
+                        105.64847564697266,
+                        101.34284210205078,
+                        765.1885375976562,
+                        176.89300537109375
+                    ],
+                    "text": "SALES STATISTICS"
+                },
+                {
+                    "idx": 1,
+                    "type": "text",
+                    "bbox": [
+                        964.0494384765625,
+                        116.4583740234375,
+                        1273.7835693359375,
+                        151.27899169921875
+                    ],
+                    "text": "LARANA, INC. | 2024"
+                },
+                {
+                    "idx": 2,
+                    "type": "text",
+                    "bbox": [
+                        119.39672088623047,
+                        197.2374267578125,
+                        1317.1397705078125,
+                        239.1283416748047
+                    ],
+                    "text": "This section provides an overview of key sales metrics for the current period. Data is compiled from all available sources to give a comprehensive view of performance and trends."
+                },
+                {
+                    "idx": 3,
+                    "type": "text",
+                    "bbox": [
+                        125.36763000488281,
+                        302.4653625488281,
+                        568.12841796875,
+                        330.9228515625
+                    ],
+                    "text": "THIS MONTH'S MOST SOLD PRODUCT."
+                },
+                {
+                    "idx": 4,
+                    "type": "text",
+                    "bbox": [
+                        646.6017456054688,
+                        304.4382629394531,
+                        865.1543579101562,
+                        330.25286865234375
+                    ],
+                    "text": "SALES STATISTICS"
+                },
+                {
+                    "idx": 5,
+                    "type": "image",
+                    "image_type": "bar chart",
+                    "bbox": [
+                        129.2126922607422,
+                        361.9416198730469,
+                        602.9371948242188,
+                        862.6194458007812
+                    ],
+                    "text": "| Week | Shirt | Blazer | Dress |\n|------|-------|--------|--------|\n| 1    | 5     | 14     | 9      |\n| 2    | 7     | 18     | 16     |\n| 3    | 8     | 13     | 15     |\n| 4    | 12    | 18     | 8      |",
+                    "caption": "Sales of Clothing Items Over Four Weeks",
+                    "description": "The bar chart shows the sales of shirts, blazers, and dresses over four weeks. The sales for each item vary across the weeks, with blazers consistently having the highest sales and dresses the lowest.",
+                    "ocr_string": "20 15 10 5 Week1 Week2 Week3 Week 4 @ Shirt @ Blazer @ Dress",
+                    "image_path": "img/figures/3/figure-1-1.jpg",
+                    "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCAH1AdoDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC/HeZlWOWF4mf7u7oaWe7EUgiSN5ZCM7UHQe9RSN9qv40j5SA7nb37CltedQvCeoKj8MUATW1ytxuG1kdDhkYcip6pDjWTjvBz+dXaACiiky3939aAFopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopuW/u/rRlv7v60AOopMn+7+tLQAUUUUAUreG7gVY1W2WMHnG7P/wCunTW8y3JntmQMwAdX6HHQ1booArW1vIkrzzsrSvgfKOAPQVZoooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAhuJ1gj3Hk9h61mSXc8hzvIHovFS6mxM6r2C1TqJPU6qUFy3ZYivZozy29e4NasUiyxh1PBrCrR0tiUkXsCDRFiqwVrov0UUVZzBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAGVqX/HyP90VUq3qX/HyP90VUrJ7ndT+FBWhpXST8Kz60NK6SfhTjuTV+A0KKKK0OMKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAqvLeQxnBbJ9BzUeoTGKMKpwW71l1LlY2p0uZXZsR3kMhwGwfQ8VYrn61NPnMkZRjkr39qFK4VKXKrouUUUVRiFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAGVqX/AB8j/dFVKt6l/wAfI/3RVSsnud1P4UFaGldJPwrPrQ0rpJ+FOO5NX4DQooorQ4wooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAM3VP9ZH9DVGr2qf6yP6GqNZy3O2l8CCr2l/61/pVGr2l/61/pQtwqfCzSooorQ4gooooAKKKKACiiigAooooAKK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",
+                    "yolo_index": null
+                },
+                {
+                    "idx": 6,
+                    "type": "text",
+                    "bbox": [
+                        643.9190673828125,
+                        346.4368591308594,
+                        1331.0909423828125,
+                        381.6438293457031
+                    ],
+                    "text": "Summary statistics highlighting the performance of individual product categories. Percentages represent key performance indicators relative to targets or previous periods."
+                },
+                {
+                    "idx": 7,
+                    "type": "image",
+                    "image_type": "gauge chart",
+                    "bbox": [
+                        637.98095703125,
+                        403.1862487792969,
+                        1333.9400634765625,
+                        562.0165405273438
+                    ],
+                    "text": "| Category | Percentage |\n|----------|------------|\n| Shirt    | 47%        |\n| Blazer   | 69%        |\n| Dress    | 80%        |",
+                    "caption": "image",
+                    "description": "The image shows three gauge charts representing the percentage of different clothing items: Shirt at 47%, Blazer at 69%, and Dress at 80%.",
+                    "ocr_string": "Shirt Blazer Dress",
+                    "image_path": "img/figures/3/figure-1-2_resized.jpg",
+                    "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACfArgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDZooooAKKKKACiiigAooqKe4jgXMjY9B3NAEtNeRIxl2Cj3NZM+pyPkRDYvr1NUmZnbczFj6k1oqb6kORttfwDhX3Gmm9Y/dUfnmsWnJI0Z4P4UpUn0Y1NdTVN1Ke4H4Un2mX+/wDpVeNxIuRT65G5J2ZsrEouZf736U4Xkg6hTUFFHMwsi2t4p+8pH0qZJo3+6wz6VnUU1Ni5UatFZ0c8kfQ5HoatRXKPwflPvWimmS0T0UUVYgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKRmCgsxAA6k0ALQSAMngVnXGqKuVgXcf7x6VnS3Esx/eOT7dqtQbJckbMt/bx8b9x9F5qq+rf8APOL8WNZlFaKmieZl1tUuD02L9BTDqF0f+Wn/AI6Kq0U+VdhXZZ/tC6/56/8Ajop66ncDqVb6iqdFPlXYLs0k1Y/xxD/gJqzHqNvJwWKH/aFYlFS6aHzM6VWDDKkEeopa52GeSBsxuR7djWrb34kUbxj1IrKceUtO5dopFYMMqQRS1IwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiqtxfRQZBO5/7orNnv55sgNsX0X/GqUGxOSRry3EMP+skUH071Uk1WIfcRm+vFZNFaKmupHMy+2qzH7qIv61EdRuT/ABgfRRVWiq5UK7LP9oXX/PX/AMdFOGpXI/jB+q1Uop8q7Bdl9NVlH3o1P04qxHqsLffVk/UVkUVLgg5mdFHNHKMxurfQ1JXMgkHIJB9RVyDUposB/wB4vv1/OodN9ClI2qKgt7uK4HyN83909anrNqxYUUUUAFFFFABRRRQAUUUUAFFFFABRSEhQSTgDvWRe35mJjiJEfc/3qcYtibsT3epBcpBgnu3YfSstmZ2LMSSepNJRW6ikZt3CiiiqEFFFFAEts2JMdjVyqMAzMtXq4sQveN6ewUUUVgaBRRRQAUUUUATQ3DR8H5l9Kuo6yLlTkVmU6ORo2yp/D1q4ztuS0adFRxSrKuR17j0qSttyAooopgFFFFABRRRQAUUUUAFFFFABRRVK9vhbjYmDIf0ppX2BuxLdXcdsvzcueiise4uZbhsueOyjoKiZmdizElj1JpK3jBIycrhRRRVCCiiigAooooAKKKKACiiigAqW3bbKB2PFRU+EZlX61M1eLHHc0EkaM5U4q7DcLLweG9KoUdK89SaOlq5q0VWt7jdhH+92PrVmt07mbVgooopgFFFFABRRRQAUUUUAFFFFABRRUc0yQRl3OB/OgB0jrGhZ2CqO5rJu9ReXKRZRPXuar3V09y+W4UdF9KhraMLbmbl2CiiitCQooooAKKKKACiiigAooooAKKKKAAEggg4I7itG01IjCXHI7P8A41nUUnFPcadjpQQwBByD0NLWJY3jQOEY5jPb0raVgygg5BrnkrOxoncWiiikMKKKKACiiigAoorP1O68tfJQ/Mw5PoKaV3YTdivqF55rGKM/IOp/vVRooroSsrGTdwooopgFFFFABRUkNvLOcRoT79q0INKAwZnz7LUuSQ0mypbR4+c9+lWKvraxD+HP1NO8iL+4v5Vxzi5O7N00lYzqK0DbxH+AfhUbWaH7pI/Wp9mx8yKdFSyW0idtw9qiqGmtxhRRRSGFFFFADo3aNwy1oxyCRAwrMqSCXyn/ANk9auErEtXNGigHI4orcgKKKKACiiigAooooAKKKjnmWCJpG6DoPU0AQX12LdMLzI3T296xSSxJJyT1JpZZGmkaRzkmm10RjZGTdwoooqhBRRRQAUUqqzsFUEk9hV2HS5n5kIQenU0nJLcaVyjRWymlwL97c59zipRZWw/5Yr+NR7RD5WYNFb5src/8sV/Kon0y3boGX6Gj2iDlZi0VoS6VIvMThh6Hg1Va1mU4ZcH3NVzx7i5WQ1Yto/4z+FKlsAcuc+wqeuerVTVomkIdWLRRRXKbBV22n3jYx+Yd/WqVAJBBBwRVRlZiauatFRwyiWPPfuKkrdO5mFFFFMAooooAKKKKACiiigBksixIXc4Udawrq5a5k3HhR91fSptRuvOk8tD8in8zVOtoRtqZyYUUUVoSFFFFABRRViCynn5C7V/vNxSbSAr0Vqx6Ug/1js3sOKsLYWy/8sgfqc1LqIrlZhUVv/Y7f/nin5UxtPtm/wCWePoTS9og5WYdFakukr1ikI9mqjNazQffTj+8ORVKSYmmiGiiiqEFFFFABWraXBQLn7pHNZVX0G1APQVz13axrT6muDkZHSiqlpNz5bH6VbqIu6KasFFFFMQUUUUARzSrDE0jdFFc/I7SSM7HLMcmr+rTZZYQeBy1Z1bU1ZXM5MKKKK0JCiigDJwOtAAASQAMk9q07TTRgPcfgn+NTWNkIFEkgzIf/Hau1jKfRFqIiqFGFAAHYUtFFZlhRRRQAUUUUAFRSwJJz0b1FS0UmrgZkkbRthh9D602tN0WRSrDIrPljMT4PTsfWsZRsWncZRRRUFBRRRQBcs5MrsPUdPpVmsyNyjhh2rSBBAI6Gt4O6IkhaKKKskKKKKACiiigArF1K482by1Pypx9TWneTeRbM4+90H1rArSmupEmFFFFbEBRRRQAVZtLJ7k7j8sf971+lPsLP7Q29/8AVj9a2QAoAAwB2rOc7aIqMbkcFvHAuI1x6nualoorE0CiiigAooooAKa6K4wwyKdRQBRmtjH8y8r/ACqCtWqdzb7cug47j0rGUOqLTK1FFFZlBRRRQBJbyeXID/CeDWjWVV+1k3xYPVeK1pvoRJE1FFFakhRRRQAUUUUAFU9RuPJg2qfnfgewq5WBezefcswPyjhfpVQV2TJ2RBRRRXQZhRRRQAU+KJ5nCRrkmiGJ5pAiDk/pW7bW6W0e1evc+tRKVhpXIbXT44QGfDv6noKuUUVi23uaJWCiiikMKKKKACgjIwaKKAM+601Hy8OFb+72NZTKyMVYEMOoNdLUFzapcL8wG4dDVxm1uS43MCirbWiqxBLAjtSrAi84yfem68Q9myK3iJIdhwOlWqKK5Jzc3dmsY2QA4OR1rRhk8yMN371nVPaSbZdp6N/OiDswaL1FFFbkBSEhQSegparag+yzkI6kY/OhasDFmkMszyH+I5plFFdSMQooooAK0dLttx89xwOF/wAaoRRmWVUXqxxXRRoI0VFGAowKzqSsrFRQ6iiisTQKKKxtRuZZVkaBykMJALKcbmoA2aKgmg+0QqpkkTvlDg1TubNLe3eU3Vz8o4HmdTQBp0Vl5mhs7WJ5WUyth3J5GecZqaCYw3FxE8pkijUNuY5K+2aAL1FU7BpZg9xISFkPyJ6LVygAqOaISoR37GpKKT1AyiCCQeooqxeR4cOOh6/Wq9c7VnY0WoUUUUhhV60fdFjuvFUasWTYkK+oq4OzJexdooorcgKKKKACiiigDJ1eXMqRDooyfrWfUt0/mXMjf7RqKumKsjJ7hRRRTEFS20BuJlQdOpPoKirY0uDy7fzCPmfn8KmbshpXZcRFjQIowoGAKdRRXOahRUN3N9ntpJepUcfWqaWKyRq9xcSec4zkPjH0FAGlRVe0E8cBW4IZlJwwPUVTtYDqCG4uJJMMTtRWwFFAGpRVC1Z7e8e0eRnTbvQt1HtULySPHdTm4eN4XIVAeOOmR3zQBq0VQuLiV44IYjtnmAJI/hHc1eUbVAyTgdTQAtHWiigDPuIvKk4+6elRVoXEfmREdxyKz6wmrM0TuFFFFQMKmtH2zY7NxUNAO1gR2OaadncTNWigHIzRXSZhRRRQAUUUUAV76XybV2HUjA/GsGtPWH4jT6k1mVvTWhnLcKKKKskKKKt6dD51yCR8qcn+lJuyuC1NCwtvs8OWHztyfb2q3RRXO3fU2QUUVmBXvr2dJJXSOIgBEOM+5pAadFZu17G+gjjld4psgo5zj3FOu2knvUs45DGu3e7L1x6UAaFFZVxC2nBbiGaRkDAOrnORVi6dnuoIBI0cbgsWU4J9s0AXaKz4LowwXLSuZEhfarHq3tU9iJvI3zsS7ndg/wAI9KALNFFFAFa7i3LvHUdfpVOtXFZsyeXKV7dqxqLqXFjKKKKzKCgEggjqKKKANNG3oGHcUVDZtmHHoaK6Yu6MmWKq6iheyfHbBq1SEBlIPIPWmtGDOaoqe7tmtpSMfIfumoK6U7mIUUUqKzsFUEk9AKYF7SY907SHog4+prXqCztxbQBf4jyx96nrnk7s1SsgoooqRmfql35SrAr7Gk6sf4R61VvJ7MaYbe3kBIxgYPPNbDRoxyyqfqKrX1mLi2aOJUViRyRigCa3njniDROGA4JHrVS7/wBJvobUcon7yT+gq8iBFAAA+gqvaWzxPNLKVMkjZ47DsKALEkaSoVkUMp7EVnXEcbSrZQKEjHzzEccelaTZ2naBu7ZqrbWhSCUSsGlmzvYf0oAIr6ElFCSJGx2o5XCn6VbrPW0uWSGCUxiKJgdyk5bHTitCgAooooAiuF3wsO45FZ9atZ9xCYn4+6elZVF1KiyKiiisiwqezGZifQVAAScAZJrQt4vKTB+8etXBXZLehLRRRW5AUUUUAFFFFAHO3ClLiRT2Y1HWpqdqX/fxjJA+Yf1rLroi7oyaswoooqhDo0MkioOrHFdGqhVCjoBgVmaZand58gx/dB/nWpWNR3ZpFBRRRWZRS1cE6dLjtg/qKbHpsEsQacGSRhkuSf0q7JGssbI4yrDBqisF/CnlRTRMg4UuDkCgBdMZgbi3ZiywvhSfSmRQ3VoWS18uWEnIDHBWrVnai2jILF3c7nY9zUH2W5t5Xa0kj2OdxSQHg+1AEUKSjWFaZg0hiJIXoo6Yq5PDbDNxNGhKjJYim2lq8UjzTOHmfgkDgD0FF3bvcmOPIEIOXHc+1AFW2lCN9qmVmmuD8iKMkKKv29wlwhK5BU4ZWGCDUVxBJ58U8G0sgK7W4BBpbSB4vNklI8yVtxC9B7UAWaKKKACs2ZdkrD34rSqvdQlxvUcjqPWomrocWUqKKKwNAoAyQB3oqzawksJGHA6e9NK7E3YuAYAFFFFdJmFFFFABRRRQBl6wh3RP25FZtdBdQC4gZDweoPoawZI2jco4ww7VtTeljOS1G0UUVoSFbOlR7LbeernP4VmW1u1zKFXp/EfQVvooRAqjAAwKyqPoXFdRaKKKyLCssRve3sskL+QIzsLL1c1qVQNtc288kloUZJDlkfjB9qAIij2V9FJM/niU7A7dUNSJxrj5/ih4/OlW2uLi4jluiirGcqic8+9SXdo00iTQyeXMnQ44I9DQA3WCBp0nuQB+dTmCOWBEmQOABwRVX7Hc3EiG8lQxoc7EHU+9XZvMMTCLAcjgnoKAM6TypLjywAlra/M+BwW9Ktw3qSyLGUkjZhld643D2pgsANOa23fMwyzeretIkFxJcQyXHlqIQcbDncTxQBdooooAKq3q8K/4GrVNkQSIVPepkroaMyildGRirDmkrnNAoop0cZkbav4n0oQFuzGIifU0VMihFCjoKK6UrKxkx1FFFMBskaSKVdQwPY1Qk0lCcxyFfYjNaNFNNrYTSZmLpPPzTcey1dgtYrcfu157setTUUOTe4JJBRRRSGFFFFABRTPOjzjzEz6bhSu6xoWc4UdTQA6imRTJMpaNgwBxxT6ACiqq30TXPkANnOM9s1aotYAooJAGScCkBB6EH6UALRRRQAUjAMMEZFLRQBWezU8qxX2600WXq/6VboqeRDuyOOFI/ujn1NSUUU0rCCiiimAUUUUAFFFFABVOfToZiWXKMe46flVyimm1sK1zL/shs/64Y/3ang02GIhmzIw9en5VdopuTYcqCiiipGFFIzBRliAPc03zY/8Anov/AH1QA+ijIxntUUVxFMxWNwxHJxQBLRRRQAUUUUAFFFFABRRRQAUUUUAQyW6SHPQ+oqL7Ec/f/SrdFS4pjuyvHaIpy2WPvViiimklsK4UUUUwCiiigAooooAKhntorhcSLk9iOoqaigDMbSefkl49xTo9JUHMkhb2AxWjRVc7FyoZFEkSbY1Cj2p9FFSMKKKRmVfvMB9TQAtFNEqE4Dqfxp1ABRRRQAUUUUAFFFFABRRRQAUUUUANkjWQYYZqu1kM/K/5irVFS4pjuVVsxn5nJ+gqwiKgwowKdRQopBcKKKKoQUUUUAFFFFABRRRQAUUUUAFUtVd0tgFJAZsEirtQXcsUUX75SyMcYAzTW4nsZcNpFPANkoE3dSeKuPHLFpkqSsGIHBB7VVmgtmtzPBIVx/ATzUkUryaXNvJO3gE1o9SURWl20ELJHGXYnPsBV2yv/tDmN1CvjIx0NM0gDyHPfd/SoIBjV2A4G5qHZ3BXRLHKh1Mp5KBtxG/vTptRMV00bINink96gi/5DJ/32/lTZFD6vtYZBcZH4UWXULj57557R/3YCltvrgUmmTujCIJlGbJb04q9fKFsZQoA47VX0mRBCyFgGLcDPPSldcuwdTRooorMsKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooApar/wAen/AhVKG0gktfMeba+DxkVd1X/j0/4EKqW9rbSWweSXa/OfmHFax+Eh7kmks5Eq87APyNN0j/AI+JP93+tLpczFnhPKgZHtTNLBMkwHUpQ+odiabUyJSkMYYA4ye9NbVXBAEQB/iBPeotMkjimbzCFJGATTdQkjkugYyDgAEjuaOVXtYLvcu3V5NDMUSHeuAc4NR2+oyS3CRmNRk4PtUmoXfkp5UZ/eMOT6Ck0+KKEBmkQyt23A49qVlbVBrcW51Dy5fKiTe44NNg1EmURzx7CeM1SjDi+ceaIn3H5iKkmjEkwEl2rP0GFJ/lT5UF2W7q/a3uBHsBXAJNPtLz7VJIAu1VHHrVLUBm/VTzkKDWsqKgwqgD2FS7JDV7jqKKKgoKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArN1j7kX1NaVZ2sfci+pqobilsRR6YJLdXWQhmXOCOKfp1xIsxt5ST1xnsR2qeC6gjtI90i5CjIzzVOxBn1BpgMKCWP41erTuTtsTNqZSd0dBtUkcdTUqX4+yGaRcHcQFHeqcCK+qsGAI3McGptXXCxEDC89PWiyukF3YT+05gN5gHl+vP86uC7ja1M4ztHUd8+lUCHNqN14nlkAbdv6VJbxwpYy75d0THG4KRg0mkCbE/tKcqZBAPLB68/zq2L2M2n2jBx0x3z6VnhZIYWkguFeIHkH/A1YWaK408mYCMbsEqO/rQ0gTYz+0p9vmGAeXnrz/OtCCVZ4lkXoaysSwQeZDOrxZ6H/A1o2UvnWyvtCnoQOlKSVtBpliiiioKCiiigAooooAKKKKACiiigAooooAKKKKACiiigApkkayoUcZU9qfRQBQ/sqHdnc+PTNWTbR/ZzAo2oRjipqKbk2KyIba2W2QqhJBOeaYllGlyZwzbiScduas0UXYWKy2Ua3Xnhm3ZJx2oNlGbr7RubdnOO1WaKLsLIRlDqVYZBGCKqxafFFMsqF8joCeKt0UXaHYKKKKQBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAEVxAtxHsckDOeKq/2TD/ff8xV+imm1sKxBBbR26kRg5PUnqabbWUds7MjMSRjmrNFF2FinNp0Mzl8spPXHemnTIDtwXGPQ9avUUczCyKk9hHPKZGZwSMcU2LTYopFdWclTkZxV2ijmYWRWuLKK4bcwKt6ikt7CGBt4yzDoW7Vaoou7WCyK01lHNMJWZgwx09qs0UUrjCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACoLm1S5Chyw2nPFT0ULQCgNKgzyzn8RVyKJIU2xqFFPoptt7isitHZRx3JnDNuJJx25qaWJJUKOMqafRRdjsUBpUO7O58ematiGMReVtGzGMVJRQ22KyKB0qEtkM4HpmrItohB5O0bPSpqKG2wsih/ZUO7O98emauRxrEgRBhR2p9FDbe4WsFFFFIYUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/2Q==",
+                    "yolo_index": null
+                },
+                {
+                    "idx": 8,
+                    "type": "text",
+                    "bbox": [
+                        644.804931640625,
+                        592.678466796875,
+                        1042.2142333984375,
+                        621.7875366210938
+                    ],
+                    "text": "THIS MONTH'S SALES STATISTICS"
+                },
+                {
+                    "idx": 9,
+                    "type": "image",
+                    "image_type": "line graph",
+                    "bbox": [
+                        649.5902099609375,
+                        647.36474609375,
+                        1319.779052734375,
+                        854.3351440429688
+                    ],
+                    "text": "| Item | Red Line | Blue Line |\n|------|----------|-----------|\n| Item 1 | 5        | 0         |\n| Item 2 | 35       | 25        |\n| Item 3 | 40       | 15        |\n| Item 4 | 10       | 30        |",
+                    "caption": "Line Graph",
+                    "description": "A line graph showing two sets of data for four items, with one set represented by a red line and the other by a blue line. The y-axis represents values ranging from 0 to 40, while the x-axis lists the items.",
+                    "ocr_string": "40 30 20 10 0 Item 1 Item 2 Item 3 Item 4",
+                    "image_path": "img/figures/3/figure-1-3_resized.jpg",
+                    "image_base64": "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",
+                    "yolo_index": null
+                },
+                {
+                    "idx": 10,
+                    "type": "text",
+                    "bbox": [
+                        118.80563354492188,
+                        887.8775024414062,
+                        594.6531372070312,
+                        939.1687622070312
+                    ],
+                    "text": "Detailed breakdown of the best-selling items this month. Analyze performance by week to identify patterns and popular product categories."
+                },
+                {
+                    "idx": 11,
+                    "type": "text",
+                    "bbox": [
+                        651.063720703125,
+                        875.6796264648438,
+                        1320.8067626953125,
+                        910.05078125
+                    ],
+                    "text": "Visual representation of sales trends over the month. Compare different items or categories to see how performance fluctuates across the weeks."
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "markdown": "| Sheet1 | | | | | | |\n| --- | --- | --- | --- | --- | --- | --- |\n| **First Name** | **Last Name** | **Gender** | **Country** | **Age** | **Date** | **Id** |\n| Dulce | Abril | Female | United States | 32 | 15/10/2017 | 1562 |\n| Mara | Hashimoto | Female | Great Britain | 25 | 16/08/2016 | 1582 |\n| Philip | Gent | Male | France | 36 | 21/05/2015 | 2587 |\n| Kathleen | Hanner | Female | United States | 25 | 15/10/2017 | 3549 |\n| Nereida | Magwood | Female | United States | 58 | 16/08/2016 | 2468 |\n| Gaston | Brumm | Male | United States | 24 | 21/05/2015 | 2554 |\n| Etta | Hurn | Female | Great Britain | 56 | 15/10/2017 | 3598 |\n| Earlean | Melgar | Female | United States | 27 | 16/08/2016 | 2456 |\n| Vincenza | Weiland | Female | United States | 40 | 21/05/2015 | 6548 |\n| Fallon | Winward | Female | Great Britain | 28 | 16/08/2016 | 5486 |\n| Arcelia | Bouska | Female | Great Britain | 39 | 21/05/2015 | 1258 |\n| Franklyn | Unknow | Male | France | 38 | 15/10/2017 | 2579 |\n| Sherron | Ascencio | Female | Great Britain | 32 | 16/08/2016 | 3256 |\n| Marcel | Zabriskie | Male | Great Britain | 26 | 21/05/2015 | 2587 |\n| Kina | Hazelton | Female | Great Britain | 31 | 16/08/2016 | 3259 |\n| Shavonne | Pia | Female | France | 24 | 21/05/2015 | 1546 |\n| Shavon | Benito | Female | France | 39 | 15/10/2017 | 3579 |\n| Lauralee | Perrine | Female | Great Britain | 28 | 16/08/2016 | 6597 |\n| Loreta | Curren | Female | France | 26 | 21/05/2015 | 9654 |\n| Teresa | Strawn | Female | France | 46 | 21/05/2015 | 3569 |\n| Belinda | Partain | Female | United States | 37 | 15/10/2017 | 2564 |\n| Holly | Eudy | Female | United States | 52 | 16/08/2016 | 8561 |\n| Many | Cuccia | Female | Great Britain | 46 | 21/05/2015 | 5489 |\n| Libbie | Dalby | Female | France | 42 | 21/05/2015 | 5489 |\n| Lester | Prothro | Male | France | 21 | 15/10/2017 | 6574 |\n| Marvel | Hail | Female | Great Britain | 28 | 16/08/2016 | 5555 |\n| Angelyn | Vong | Female | United States | 29 | 21/05/2015 | 6125 |\n| Francesca | Beaudreau | Female | France | 23 | 15/10/2017 | 5412 |\n| Garth | Gangi | Male | United States | 41 | 16/08/2016 | 3256 |\n| Carla | Trumbull | Female | Great Britain | 28 | 21/05/2015 | 3264 |\n| Veta | Muntz | Female | Great Britain | 37 | 15/10/2017 | 4569 |\n| Stasia | Becker | Female | Great Britain | 34 | 16/08/2016 | 7521 |\n| Jona | Grindle | Female | Great Britain | 26 | 21/05/2015 | 6458 |\n| Judie | Claywell | Female | France | 35 | 16/08/2016 | 7569 |\n| Dewitt | Borger | Male | United States | 36 | 21/05/2015 | 8514 |\n| Nena | Hacker | Female | United States | 29 | 15/10/2017 | 8563 |\n| Kelsie | Wachtel | Female | France | 27 | 16/08/2016 | 8642 |\n| Sau | Pfau | Female | United States | 25 | 21/05/2015 | 9536 |\n| Shanice | Mccrystal | Female | United States | 36 | 21/05/2015 | 2567 |\n| Chase | Karner | Male | United States | 37 | 15/10/2017 | 2154 |\n| Tommie | Underdahl | Male | United States | 26 | 16/08/2016 | 3265 |\n| Dorcas | Darity | Female | United States | 37 | 21/05/2015 | 8765 |\n| Angel | Sanor | Male | France | 24 | 15/10/2017 | 3259 |\n| Willodean | Harn | Female | United States | 39 | 16/08/2016 | 3567 |\n| Weston | Martina | Male | United States | 26 | 21/05/2015 | 6540 |\n| Roma | Lafollette | Female | United States | 34 | 15/10/2017 | 2654 |\n| Felisa | Cail | Female | United States | 28 | 16/08/2016 | 6525 |\n| Demetria | Abbey | Female | United States | 32 | 21/05/2015 | 3265 |\n| Jeromy | Danz | Male | United States | 39 | 15/10/2017 | 3265 |\n| Rasheeda | Alkire | Female | United States | 29 | 16/08/2016 | 6125 |\n| Page 1 |",
+            "text": "| Sheet1 | | | | | | |\n| --- | --- | --- | --- | --- | --- | --- |\n| 0 First Name | Last Name | Gender | Country | Age | Date |  |\n| 1 Dulce | Abril | Female | United States |  | 32 15/10/2017 | 1562 |\n| 2 Mara | Hashimoto | Female | Great Britain |  | 25 16/08/2016 | 1582 |\n| 3 Philip | Gent | Male | France |  | 36 21/05/2015 | 2587 |\n| 4 Kathleen | Hanner | Female | United States |  | 25 15/10/2017 | 3549 |\n| 5 Nereida | Magwood | Female | United States |  | 58 16/08/2016 | 2468 |\n| 6 Gaston | Brumm | Male | United States |  | 24 21/05/2015 | 2554 |\n| 7 Etta | Hurn | Female | Great Britain |  | 56 15/10/2017 | 3598 |\n| 8 Earlean | Melgar | Female | United States |  | 27 16/08/2016 | 2456 |\n| 9 Vincenza | Weiland | Female | United States |  | 40 21/05/2015 | 6548 |\n| 0 Fallon | Winward | Female | Great Britain |  | 28 16/08/2016 | 5486 |\n| 1 Arcelia | Bouska | Female | Great Britain |  | 39 21/05/2015 | 1258 |\n| 2 Franklyn | Unknow | Male | France |  | 38 15/10/2017 | 2579 |\n| 3 Sherron | Ascencio | Female | Great Britain |  | 32 16/08/2016 | 3256 |\n| 4 Marcel | Zabriskie | Male | Great Britain |  | 26 21/05/2015 | 2587 |\n| 5 Kina | Hazelton | Female | Great Britain |  | 31 16/08/2016 | 3259 |\n| 6 Shavonne | Pia | Female | France |  | 24 21/05/2015 | 1546 |\n| 7 Shavon | Benito | Female | France |  | 39 15/10/2017 | 3579 |\n| 8 Lauralee | Perrine | Female | Great Britain |  | 28 16/08/2016 | 6597 |\n| 9 Loreta | Curren | Female | France |  | 26 21/05/2015 | 9654 |\n| 0 Teresa | Strawn | Female | France |  | 46 21/05/2015 | 3569 |\n| 1 Belinda | Partain | Female | United States |  | 37 15/10/2017 | 2564 |\n| 2 Holly | Eudy | Female | United States |  | 52 16/08/2016 | 8561 |\n| 3 Many | Cuccia | Female | Great Britain |  | 46 21/05/2015 | 5489 |\n| 4 Libbie | Dalby | Female | France |  | 42 21/05/2015 | 5489 |\n| 5 Lester | Prothro | Male | France |  | 21 15/10/2017 | 6574 |\n| 6 Marvel | Hail | Female | Great Britain |  | 28 16/08/2016 | 5555, |\n| 7 Angelyn | Vong | Female | United States |  | 29 21/05/2015 | 6125 |\n| 8 Francesca | Beaudreau | Female | France |  | 23 15/10/2017 | 5412 |\n| 9 Garth | Gangi | Male | United States |  | 41 16/08/2016 | 3256 |\n| 0 Carla | Trumbull | Female | Great Britain |  | 28 21/05/2015 | 3264 |\n| 1 Veta | Muntz | Female | Great Britain |  | 37 15/10/2017 | 4569 |\n| 2 Stasia | Becker | Female | Great Britain |  | 34 16/08/2016 | 7521 |\n| 33 Jona | Grindle | Female | Great Britain |  | 26 21/05/2015 | 6458 |\n| 4 Judie | Claywell | Female | France |  | 35 16/08/2016 | 7569 |\n| 5 Dewitt | Borger | Male | United States |  | 36 21/05/2015 | 8514 |\n| 6 Nena | Hacker | Female | United States |  | 29 15/10/2017 | 8563 |\n| 7 Kelsie | Wachtel | Female | France |  | 27 16/08/2016 | 8642 |\n| 8 Sau | Pfau | Female | United States |  | 25 21/05/2015 | 9536 |\n| 9 Shanice | Mcerystal | Female | United States |  | 36 21/05/2015 | 2567 |\n| }0 Chase | Karner | Male | United States |  | 37 15/10/2017 | 2154 |\n| 1 Tommie | Underdahl | Male | United States |  | 26 16/08/2016 | 3265, |\n| 2 Dorcas | Darity | Female | United States |  | 37 21/05/2015 | 8765 |\n| 3 Angel | Sanor | Male | France |  | 24 15/10/2017 | 3259 |\n| 4 Willodean | Harn | Female | United States |  | 39 16/08/2016 | 3567 |\n| 5 Weston | Martina | Male | United States |  | 26 21/05/2015 | 6540 |\n| 6 Roma | Lafollette | Female | United States |  | 34 15/10/2017 | 2654 |\n| 17 Felisa | Cail | Female | United States |  | 28 16/08/2016 | 6525, |\n\n48 Demetria Abbey Danz\n\n49 Jeromy 50 Rasheeda Alkire\n\nFemale\n\nMale\n\nFemale\n\nUnited States\n\nUnited States\n\nUnited States\n\n32 21/05/2015\n\n39 15/10/2017\n\n29 16/08/2016\n\n3265,\n\n3265,\n\n6125\n\nPage 1\n\n",
+            "elements": [
+                {
+                    "idx": 0,
+                    "type": "table",
+                    "bbox": [
+                        185.3801727294922,
+                        97.8971176147461,
+                        1000.4822387695312,
+                        1123.8958740234375
+                    ],
+                    "text": "| Sheet1 | | | | | | |\n| --- | --- | --- | --- | --- | --- | --- |\n| 0 First Name | Last Name | Gender | Country | Age | Date |  |\n| 1 Dulce | Abril | Female | United States |  | 32 15/10/2017 | 1562 |\n| 2 Mara | Hashimoto | Female | Great Britain |  | 25 16/08/2016 | 1582 |\n| 3 Philip | Gent | Male | France |  | 36 21/05/2015 | 2587 |\n| 4 Kathleen | Hanner | Female | United States |  | 25 15/10/2017 | 3549 |\n| 5 Nereida | Magwood | Female | United States |  | 58 16/08/2016 | 2468 |\n| 6 Gaston | Brumm | Male | United States |  | 24 21/05/2015 | 2554 |\n| 7 Etta | Hurn | Female | Great Britain |  | 56 15/10/2017 | 3598 |\n| 8 Earlean | Melgar | Female | United States |  | 27 16/08/2016 | 2456 |\n| 9 Vincenza | Weiland | Female | United States |  | 40 21/05/2015 | 6548 |\n| 0 Fallon | Winward | Female | Great Britain |  | 28 16/08/2016 | 5486 |\n| 1 Arcelia | Bouska | Female | Great Britain |  | 39 21/05/2015 | 1258 |\n| 2 Franklyn | Unknow | Male | France |  | 38 15/10/2017 | 2579 |\n| 3 Sherron | Ascencio | Female | Great Britain |  | 32 16/08/2016 | 3256 |\n| 4 Marcel | Zabriskie | Male | Great Britain |  | 26 21/05/2015 | 2587 |\n| 5 Kina | Hazelton | Female | Great Britain |  | 31 16/08/2016 | 3259 |\n| 6 Shavonne | Pia | Female | France |  | 24 21/05/2015 | 1546 |\n| 7 Shavon | Benito | Female | France |  | 39 15/10/2017 | 3579 |\n| 8 Lauralee | Perrine | Female | Great Britain |  | 28 16/08/2016 | 6597 |\n| 9 Loreta | Curren | Female | France |  | 26 21/05/2015 | 9654 |\n| 0 Teresa | Strawn | Female | France |  | 46 21/05/2015 | 3569 |\n| 1 Belinda | Partain | Female | United States |  | 37 15/10/2017 | 2564 |\n| 2 Holly | Eudy | Female | United States |  | 52 16/08/2016 | 8561 |\n| 3 Many | Cuccia | Female | Great Britain |  | 46 21/05/2015 | 5489 |\n| 4 Libbie | Dalby | Female | France |  | 42 21/05/2015 | 5489 |\n| 5 Lester | Prothro | Male | France |  | 21 15/10/2017 | 6574 |\n| 6 Marvel | Hail | Female | Great Britain |  | 28 16/08/2016 | 5555, |\n| 7 Angelyn | Vong | Female | United States |  | 29 21/05/2015 | 6125 |\n| 8 Francesca | Beaudreau | Female | France |  | 23 15/10/2017 | 5412 |\n| 9 Garth | Gangi | Male | United States |  | 41 16/08/2016 | 3256 |\n| 0 Carla | Trumbull | Female | Great Britain |  | 28 21/05/2015 | 3264 |\n| 1 Veta | Muntz | Female | Great Britain |  | 37 15/10/2017 | 4569 |\n| 2 Stasia | Becker | Female | Great Britain |  | 34 16/08/2016 | 7521 |\n| 33 Jona | Grindle | Female | Great Britain |  | 26 21/05/2015 | 6458 |\n| 4 Judie | Claywell | Female | France |  | 35 16/08/2016 | 7569 |\n| 5 Dewitt | Borger | Male | United States |  | 36 21/05/2015 | 8514 |\n| 6 Nena | Hacker | Female | United States |  | 29 15/10/2017 | 8563 |\n| 7 Kelsie | Wachtel | Female | France |  | 27 16/08/2016 | 8642 |\n| 8 Sau | Pfau | Female | United States |  | 25 21/05/2015 | 9536 |\n| 9 Shanice | Mcerystal | Female | United States |  | 36 21/05/2015 | 2567 |\n| }0 Chase | Karner | Male | United States |  | 37 15/10/2017 | 2154 |\n| 1 Tommie | Underdahl | Male | United States |  | 26 16/08/2016 | 3265, |\n| 2 Dorcas | Darity | Female | United States |  | 37 21/05/2015 | 8765 |\n| 3 Angel | Sanor | Male | France |  | 24 15/10/2017 | 3259 |\n| 4 Willodean | Harn | Female | United States |  | 39 16/08/2016 | 3567 |\n| 5 Weston | Martina | Male | United States |  | 26 21/05/2015 | 6540 |\n| 6 Roma | Lafollette | Female | United States |  | 34 15/10/2017 | 2654 |\n| 17 Felisa | Cail | Female | United States |  | 28 16/08/2016 | 6525, |"
+                },
+                {
+                    "idx": 1,
+                    "type": "text",
+                    "bbox": [
+                        179.0,
+                        1127.0,
+                        356.0,
+                        1160.0
+                    ],
+                    "text": "48 Demetria Abbey Danz"
+                },
+                {
+                    "idx": 2,
+                    "type": "text",
+                    "bbox": [
+                        180.0,
+                        1148.0,
+                        351.0,
+                        1180.0
+                    ],
+                    "text": "49 Jeromy 50 Rasheeda Alkire"
+                },
+                {
+                    "idx": 3,
+                    "type": "text",
+                    "bbox": [
+                        417.0,
+                        1127.0,
+                        470.0,
+                        1139.0
+                    ],
+                    "text": "Female"
+                },
+                {
+                    "idx": 4,
+                    "type": "text",
+                    "bbox": [
+                        417.0,
+                        1147.0,
+                        450.0,
+                        1160.0
+                    ],
+                    "text": "Male"
+                },
+                {
+                    "idx": 5,
+                    "type": "text",
+                    "bbox": [
+                        417.0,
+                        1168.0,
+                        470.0,
+                        1180.0
+                    ],
+                    "text": "Female"
+                },
+                {
+                    "idx": 6,
+                    "type": "text",
+                    "bbox": [
+                        522.0,
+                        1127.0,
+                        620.0,
+                        1139.0
+                    ],
+                    "text": "United States"
+                },
+                {
+                    "idx": 7,
+                    "type": "text",
+                    "bbox": [
+                        522.0,
+                        1147.0,
+                        620.0,
+                        1160.0
+                    ],
+                    "text": "United States"
+                },
+                {
+                    "idx": 8,
+                    "type": "text",
+                    "bbox": [
+                        522.0,
+                        1168.0,
+                        620.0,
+                        1180.0
+                    ],
+                    "text": "United States"
+                },
+                {
+                    "idx": 9,
+                    "type": "text",
+                    "bbox": [
+                        708.0,
+                        1127.0,
+                        814.0,
+                        1139.0
+                    ],
+                    "text": "32 21/05/2015"
+                },
+                {
+                    "idx": 10,
+                    "type": "text",
+                    "bbox": [
+                        708.0,
+                        1147.0,
+                        814.0,
+                        1160.0
+                    ],
+                    "text": "39 15/10/2017"
+                },
+                {
+                    "idx": 11,
+                    "type": "text",
+                    "bbox": [
+                        708.0,
+                        1168.0,
+                        814.0,
+                        1180.0
+                    ],
+                    "text": "29 16/08/2016"
+                },
+                {
+                    "idx": 12,
+                    "type": "text",
+                    "bbox": [
+                        900.0,
+                        1127.0,
+                        936.0,
+                        1139.0
+                    ],
+                    "text": "3265,"
+                },
+                {
+                    "idx": 13,
+                    "type": "text",
+                    "bbox": [
+                        900.0,
+                        1148.0,
+                        936.0,
+                        1160.0
+                    ],
+                    "text": "3265,"
+                },
+                {
+                    "idx": 14,
+                    "type": "text",
+                    "bbox": [
+                        900.0,
+                        1168.0,
+                        936.0,
+                        1180.0
+                    ],
+                    "text": "6125"
+                },
+                {
+                    "idx": 15,
+                    "type": "text",
+                    "bbox": [
+                        529.1453857421875,
+                        1314.655029296875,
+                        581.5469970703125,
+                        1332.358642578125
+                    ],
+                    "text": "Page 1"
+                }
+            ]
+        }
+    ]
+}
